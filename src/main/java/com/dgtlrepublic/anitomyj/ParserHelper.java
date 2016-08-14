@@ -98,13 +98,13 @@ public class ParserHelper {
     /** Returns whether or not the {@code string} is a resolution. */
     public static boolean isResolution(String string) {
         if (StringUtils.isEmpty(string)) return false;
-        int min_width_size = 3;
-        int min_height_size = 3;
+        int minWidthSize = 3;
+        int minHeightSize = 3;
 
         // *###x###*
-        if (string.length() >= min_width_size + 1 + min_height_size) {
+        if (string.length() >= minWidthSize + 1 + minHeightSize) {
             int pos = StringUtils.indexOfAny(string, "xX\u00D7");
-            if (pos != -1 && pos >= min_width_size && pos <= string.length() - (min_height_size + 1)) {
+            if (pos != -1 && pos >= minWidthSize && pos <= string.length() - (minHeightSize + 1)) {
                 for (int i = 0; i < string.length(); i++) {
                     if (i != pos && !Character.isDigit(string.charAt(i))) return false;
                 }
@@ -113,7 +113,7 @@ public class ParserHelper {
             }
 
             // *###p
-        } else if (string.length() >= min_height_size + 1) {
+        } else if (string.length() >= minHeightSize + 1) {
             if (Character.toLowerCase(string.charAt(string.length() - 1)) == 'p') {
                 for (int i = 0; i < string.length() - 1; i++) {
                     if (!Character.isDigit(string.charAt(i))) return false;

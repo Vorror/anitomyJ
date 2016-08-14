@@ -75,10 +75,10 @@ public class StringHelper {
 
     /** Returns the trimmed version of the string remove <i>any</i> of the {@code trimChars}. */
     public static String trimAny(String string, String trimChars) {
-        int pos_begin = findFirstNotOfAny(string, trimChars); /** find the first char not in trimChars */
-        int pos_end = findLastNotOfAny(string, trimChars); /** find the last char not in trimChars */
-        if (pos_begin == -1 || pos_end == -1) return "";
-        return string.substring(pos_begin, pos_end + 1);
+        int posBegin = findFirstNotOfAny(string, trimChars); /** find the first char not in trimChars */
+        int posEnd = findLastNotOfAny(string, trimChars); /** find the last char not in trimChars */
+        if (posBegin == -1 || posEnd == -1) return "";
+        return string.substring(posBegin, posEnd + 1);
     }
 
     /** Returns the index of the <i>first</i> character that's not one of {@code trimChars}; -1 otherwise. */

@@ -54,12 +54,12 @@ import com.dgtlrepublic.anitomyj.Token.TokenFlag;
  * @author Eren Okka
  */
 public class Parser {
-    private final List<Element> elements;
-    private final Options options;
-    private final List<Token> tokens;
+    private boolean isEpisodeKeywordsFound = false;
     private final ParserHelper parserHelper;
     private final ParserNumber parserNumber;
-    private boolean isEpisodeKeywordsFound = false;
+    private final List<Element> elements;
+    private final List<Token> tokens;
+    private final Options options;
 
     /**
      * Constructs a new token parser.
@@ -218,63 +218,63 @@ public class Parser {
 
     /** Search for anime title. */
     private void searchForAnimeTitle() {
-        boolean enclosed_title = false;
+        boolean enclosedTitle = false;
 
-        Result token_begin = Token.findToken(tokens, kFlagNotEnclosed, kFlagUnknown);
+        Result tokenBegin = Token.findToken(tokens, kFlagNotEnclosed, kFlagUnknown);
 
         // If that doesn't work, find the first unknown token in the second enclosed
         // group, assuming that the first one is the release group
-        if (token_begin.token == null) {
-            token_begin = new Result(null, 0);
-            enclosed_title = true;
-            boolean skipped_previous_group = false;
+        if (tokenBegin.token == null) {
+            tokenBegin = new Result(null, 0);
+            enclosedTitle = true;
+            boolean skippedPreviousGroup = false;
 
             do {
-                token_begin = Token.findToken(tokens, token_begin, kFlagUnknown);
-                if (token_begin.token == null) break;
+                tokenBegin = Token.findToken(tokens, tokenBegin, kFlagUnknown);
+                if (tokenBegin.token == null) break;
 
                 // Ignore groups that are composed of non-Latin characters
-                if (StringHelper.isMostlyLatinString(token_begin.token.getContent()) && skipped_previous_group) {
+                if (StringHelper.isMostlyLatinString(tokenBegin.token.getContent()) && skippedPreviousGroup) {
                     break;
                 }
 
                 // Get the first unknown token of the next group
-                token_begin = Token.findToken(tokens, token_begin, kFlagBracket);
-                token_begin = Token.findToken(tokens, token_begin, kFlagUnknown);
-                skipped_previous_group = true;
-            } while (token_begin.token != null);
+                tokenBegin = Token.findToken(tokens, tokenBegin, kFlagBracket);
+                tokenBegin = Token.findToken(tokens, tokenBegin, kFlagUnknown);
+                skippedPreviousGroup = true;
+            } while (tokenBegin.token != null);
         }
 
-        if (token_begin.token == null) return;
+        if (tokenBegin.token == null) return;
 
         // Continue until an identifier (or a bracket, if the title is enclosed)
         // is found
-        Result token_end = Token.findToken(tokens,
-                                           token_begin,
+        Result tokenEnd = Token.findToken(tokens,
+                                           tokenBegin,
                                            kFlagIdentifier,
-                                           enclosed_title ? kFlagBracket : kFlagNone);
+                                           enclosedTitle ? kFlagBracket : kFlagNone);
 
         // If within the interval there's an open bracket without its matching pair,
         // move the upper endpoint back to the bracket
-        if (!enclosed_title) {
-            int end = token_end.pos != null ? token_end.pos : tokens.size();
-            Result last_bracket = token_end;
-            boolean bracket_open = false;
-            for (int i = token_begin.pos; i < end; i++) {
+        if (!enclosedTitle) {
+            int end = tokenEnd.pos != null ? tokenEnd.pos : tokens.size();
+            Result lastBracket = tokenEnd;
+            boolean bracketOpen = false;
+            for (int i = tokenBegin.pos; i < end; i++) {
                 Token token = tokens.get(i);
                 if (token.getCategory() == kBracket) {
-                    last_bracket = new Result(token, i);
-                    bracket_open = !bracket_open;
+                    lastBracket = new Result(token, i);
+                    bracketOpen = !bracketOpen;
                 }
             }
-            if (bracket_open) token_end = last_bracket;
+            if (bracketOpen) tokenEnd = lastBracket;
         }
 
         // If the interval ends with an enclosed group (e.g. "Anime Title [Fansub]"),
         // move the upper endpoint back to the beginning of the group. We ignore
         // parentheses in order to keep certain groups (e.g. "(TV)") intact.
-        if (!enclosed_title) {
-            int end = token_end.pos != null ? token_end.pos : tokens.size();
+        if (!enclosedTitle) {
+            int end = tokenEnd.pos != null ? tokenEnd.pos : tokens.size();
             Result token = Token.findPrevToken(tokens, end, kFlagNotDelimiter);
 
             while (ParserHelper.isTokenCategory(token.token, kBracket)
@@ -282,37 +282,37 @@ public class Parser {
 
                 token = Token.findPrevToken(tokens, token, kFlagBracket);
                 if (token.pos != null) {
-                    token_end = token;
-                    token = Token.findPrevToken(tokens, token_end, kFlagNotDelimiter);
+                    tokenEnd = token;
+                    token = Token.findPrevToken(tokens, tokenEnd, kFlagNotDelimiter);
                 }
             }
         }
 
         int end = tokens.size();
-        if (token_end.token != null) end = Math.min(token_end.pos, end);
-        parserHelper.buildElement(kElementAnimeTitle, false, tokens.subList(token_begin.pos, end));
+        if (tokenEnd.token != null) end = Math.min(tokenEnd.pos, end);
+        parserHelper.buildElement(kElementAnimeTitle, false, tokens.subList(tokenBegin.pos, end));
     }
 
     /** Search for release group. */
     private void searchForReleaseGroup() {
-        for (Result token_begin = new Result(null, 0), token_end = token_begin;
-             token_begin.pos != null && token_begin.pos < tokens.size(); ) {
+        for (Result tokenBegin = new Result(null, 0), tokenEnd = tokenBegin;
+             tokenBegin.pos != null && tokenBegin.pos < tokens.size(); ) {
 
             // Find the first enclosed unknown token
-            token_begin = Token.findToken(tokens, token_end, kFlagEnclosed, kFlagUnknown);
-            if (token_begin.token == null) return;
+            tokenBegin = Token.findToken(tokens, tokenEnd, kFlagEnclosed, kFlagUnknown);
+            if (tokenBegin.token == null) return;
 
             // Continue until a bracket or identifier is found
-            token_end = Token.findToken(tokens, token_begin, kFlagBracket, kFlagIdentifier);
-            if (token_end.token == null || token_end.token.getCategory() != kBracket) continue;
+            tokenEnd = Token.findToken(tokens, tokenBegin, kFlagBracket, kFlagIdentifier);
+            if (tokenEnd.token == null || tokenEnd.token.getCategory() != kBracket) continue;
 
             // Ignore if it's not the first non-delimiter token in group
-            Result prevToken = Token.findPrevToken(tokens, token_begin, TokenFlag.kFlagNotDelimiter);
+            Result prevToken = Token.findPrevToken(tokens, tokenBegin, TokenFlag.kFlagNotDelimiter);
             if (prevToken.token != null && prevToken.token.getCategory() != kBracket) continue;
 
             int end = tokens.size();
-            end = Math.min(token_end.pos, end);
-            parserHelper.buildElement(kElementReleaseGroup, true, tokens.subList(token_begin.pos, end));
+            end = Math.min(tokenEnd.pos, end);
+            parserHelper.buildElement(kElementReleaseGroup, true, tokens.subList(tokenBegin.pos, end));
             return;
         }
     }
@@ -320,15 +320,15 @@ public class Parser {
     /** Search for episode title. */
     private void searchForEpisodeTitle() {
         // Find the first non-enclosed unknown token
-        Result token_begin = Token.findToken(tokens, kFlagNotEnclosed, kFlagUnknown);
-        if (token_begin.token == null) return;
+        Result tokenBegin = Token.findToken(tokens, kFlagNotEnclosed, kFlagUnknown);
+        if (tokenBegin.token == null) return;
 
         // Continue until a bracket or identifier is found
-        Result token_end = Token.findToken(tokens, token_begin, kFlagBracket, kFlagIdentifier);
+        Result tokenEnd = Token.findToken(tokens, tokenBegin, kFlagBracket, kFlagIdentifier);
 
         int end = tokens.size();
-        if (token_end.pos != null) end = Math.min(token_end.pos, end);
-        parserHelper.buildElement(kElementEpisodeTitle, false, tokens.subList(token_begin.pos, end));
+        if (tokenEnd.pos != null) end = Math.min(tokenEnd.pos, end);
+        parserHelper.buildElement(kElementEpisodeTitle, false, tokens.subList(tokenBegin.pos, end));
     }
 
     /** Search for isolated numbers. */
@@ -366,14 +366,14 @@ public class Parser {
     /** Validate Elements. */
     private void validateElements() {
         if (!empty(kElementAnimeType) && !empty(kElementEpisodeTitle)) {
-            String episode_title = get(kElementEpisodeTitle);
+            String episodeTitle = get(kElementEpisodeTitle);
 
             for (int i = 0; i < elements.size(); ) {
                 Element el = elements.get(i);
 
                 if (el.getCategory() == kElementAnimeType) {
-                    if (StringUtils.contains(episode_title, el.getValue())) {
-                        if (episode_title.length() == el.getValue().length()) {
+                    if (StringUtils.contains(episodeTitle, el.getValue())) {
+                        if (episodeTitle.length() == el.getValue().length()) {
                             elements.removeIf(element -> element.getCategory() == kElementEpisodeTitle); // invalid episode title
                         } else {
                             String keyword = KeywordManager.normalzie(el.getValue());

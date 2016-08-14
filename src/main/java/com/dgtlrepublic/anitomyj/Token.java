@@ -306,11 +306,6 @@ class Token {
             this.pos = searchIndex;
         }
 
-        /** Returns whether or not there's a search result. */
-        public boolean isEmpty() {
-            return token == null;
-        }
-
         /** Returns an empty search result. */
         public static Result getEmptyResult() {
             return new Result(null, null);

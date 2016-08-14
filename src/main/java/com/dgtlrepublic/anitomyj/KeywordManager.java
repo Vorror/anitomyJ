@@ -225,8 +225,8 @@ public class KeywordManager {
                            TokenRange range,
                            List<Element> elements,
                            List<TokenRange> preidentifiedTokens) {
-        int end_r = range.getOffset() + range.getSize();
-        String search = filename.substring(range.getOffset(), end_r > filename.length() ? filename.length() : end_r);
+        int endR = range.getOffset() + range.getSize();
+        String search = filename.substring(range.getOffset(), endR > filename.length() ? filename.length() : endR);
         peekEntries.forEach(entry -> entry.getRight().forEach(keyword -> {
             int foundIdx = search.indexOf(keyword);
             if (foundIdx != -1) {
@@ -237,7 +237,7 @@ public class KeywordManager {
         }));
     }
 
-    /** P R I V A T E  A P I */
+    /************ P R I V A T E  A P I ********** */
 
     /** Returns the appropriate keyword container. */
     private Map<String, Keyword> getKeywordContainer(ElementCategory category) {
@@ -268,7 +268,7 @@ public class KeywordManager {
         }
 
         /**
-         * Constructs a new keyword option
+         * Constructs a new keyword option.
          *
          * @param identifiable if the token is identifiable
          * @param searchable   if the token is searchable

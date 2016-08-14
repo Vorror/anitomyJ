@@ -126,10 +126,10 @@ public class Tokenizer {
             return -1;
         };
 
-        boolean is_bracket_open = false;
+        boolean isBracketOpen = false;
         for (int i = 0; i < filename.length(); ) {
             int foundIdx;
-            if (!is_bracket_open) {
+            if (!isBracketOpen) {
                 /** look for opening brace */
                 foundIdx = findFirstBracket.apply(i, filename.length());
             } else {
@@ -140,13 +140,13 @@ public class Tokenizer {
             TokenRange range = new TokenRange(i, foundIdx == -1 ? filename.length() : foundIdx - i);
             if (range.getSize() > 0) {
                 /** check if our range contains any known anime identifies */
-                tokenizeByPreidentified(is_bracket_open, range);
+                tokenizeByPreidentified(isBracketOpen, range);
             }
 
             if (foundIdx != -1) {
                 /** mark as bracket */
                 addToken(TokenCategory.kBracket, true, new TokenRange(range.getOffset() + range.getSize(), 1));
-                is_bracket_open = !is_bracket_open;
+                isBracketOpen = !isBracketOpen;
                 i = foundIdx + 1;
             } else {
                 break;

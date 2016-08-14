@@ -192,7 +192,7 @@ public class ParserNumber {
         return false;
     }
 
-    /************ E P I S O D E M A T C H E R S ********** */
+    /************ E P I S O D E  M A T C H E R S ********** */
 
     /**
      * Attempts to find an episode/season inside a {@code word}/
@@ -277,13 +277,13 @@ public class ParserNumber {
         Pattern pattern = Pattern.compile(regexPattern);
         Matcher matcher = pattern.matcher(word);
         if (matcher.matches()) {
-            String lower_bound = matcher.group(1);
-            String upper_bound = matcher.group(3);
+            String lowerBound = matcher.group(1);
+            String upperBound = matcher.group(3);
 
             /** Avoid matching expressions such as "009-1" or "5-2" */
-            if (StringHelper.stringToInt(lower_bound) < StringHelper.stringToInt(upper_bound)) {
-                if (setEpisodeNumber(lower_bound, token, true)) {
-                    setEpisodeNumber(upper_bound, token, true);
+            if (StringHelper.stringToInt(lowerBound) < StringHelper.stringToInt(upperBound)) {
+                if (setEpisodeNumber(lowerBound, token, true)) {
+                    setEpisodeNumber(upperBound, token, true);
                     if (StringUtils.isNotEmpty(matcher.group(2)))
                         parser.getElements().add(new Element(kElementReleaseVersion, matcher.group(2)));
                     if (StringUtils.isNotEmpty(matcher.group(4)))
@@ -328,15 +328,15 @@ public class ParserNumber {
      * @return true if the token matched
      */
     public boolean matchTypeAndEpisodePattern(String word, Token token) {
-        int number_begin = ParserHelper.indexOfFirstDigit(word);
-        String prefix = StringUtils.substring(word, 0, number_begin);
+        int numberBegin = ParserHelper.indexOfFirstDigit(word);
+        String prefix = StringUtils.substring(word, 0, numberBegin);
 
         AtomicReference<ElementCategory> category = new AtomicReference<>(kElementAnimeType);
         AtomicReference<KeywordOptions> options = new AtomicReference<>();
 
         if (KeywordManager.getInstance().findAndSet(KeywordManager.normalzie(prefix), category, options)) {
             parser.getElements().add(new Element(kElementAnimeType, prefix));
-            String number = StringUtils.substring(word, number_begin);
+            String number = StringUtils.substring(word, numberBegin);
             if (matchEpisodePatterns(number, token) || setEpisodeNumber(number, token, true)) {
                 int foundIdx = parser.getTokens().indexOf(token);
                 if (foundIdx != -1) {
@@ -388,11 +388,11 @@ public class ParserNumber {
                 .filter(value -> !Character.isDigit(word.charAt(value)))
                 .findFirst()
                 .orElse(word.length());
-        int suffix_length = word.length() - foundIdx;
+        int suffixLength = word.length() - foundIdx;
 
-        Function<Integer, Boolean> is_valid_suffix = c -> (c >= 'A' && c <= 'C') || (c >= 'a' && c <= 'c');
+        Function<Integer, Boolean> isValidSuffix = c -> (c >= 'A' && c <= 'C') || (c >= 'a' && c <= 'c');
 
-        if (suffix_length == 1 && is_valid_suffix.apply((int) word.charAt(foundIdx)))
+        if (suffixLength == 1 && isValidSuffix.apply((int) word.charAt(foundIdx)))
             if (setEpisodeNumber(word, token, true))
                 return true;
 
@@ -523,7 +523,7 @@ public class ParserNumber {
         return false;
     }
 
-    /************ S E A R C H  ********** */
+    /************ S E A R C H ********** */
 
     /**
      * Searches for isolated numbers in a list of {@code tokens}.
