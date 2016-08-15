@@ -570,24 +570,24 @@ public class ParserNumber {
      * @return true if an episode number was found
      */
     public boolean searchForEpisodePatterns(List<Result> tokens) {
-        for (int i = 0; i < tokens.size(); i++) {
-            Token token = tokens.get(i).token;
-            boolean numericFront = token.getContent().length() > 0 && Character.isDigit(token.getContent().charAt(0));
+        for (Result it : tokens) {
+            boolean numericFront = it.token.getContent().length() > 0 && Character.isDigit(it.token.getContent()
+                                                                                                   .charAt(0));
 
             if (!numericFront) {
                 // e.g. "EP.1", "Vol.1"
-                if (numberComesAfterPrefix(kElementEpisodePrefix, token))
+                if (numberComesAfterPrefix(kElementEpisodePrefix, it.token))
                     return true;
-                if (numberComesAfterPrefix(kElementVolumePrefix, token))
+                if (numberComesAfterPrefix(kElementVolumePrefix, it.token))
                     continue;
             } else {
                 // e.g. "8 of 12"
-                if (numberComesBeforeTotalNumber(token, i))
+                if (numberComesBeforeTotalNumber(it.token, it.pos))
                     return true;
             }
 
             // Look for other patterns
-            if (matchEpisodePatterns(token.getContent(), token)) {
+            if (matchEpisodePatterns(it.token.getContent(), it.token)) {
                 return true;
             }
         }
