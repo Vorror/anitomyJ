@@ -649,7 +649,8 @@ public class ParserNumber {
             if (it.token.isEnclosed()) continue;
 
             // Ignore if it's the first non-enclosed, non-delimiter token
-            if (tokens.stream().allMatch(r -> r.token.isEnclosed() || r.token.getCategory() == kDelimiter)) {
+            if (parser.getTokens().subList(0, it.pos)
+                    .stream().allMatch(r -> r.isEnclosed() || r.getCategory() == kDelimiter)) {
                 continue;
             }
 
