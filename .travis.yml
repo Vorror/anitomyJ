@@ -1,0 +1,20 @@
+language: java
+jdk:
+- oraclejdk8
+notifications:
+  email:
+    on_success: never
+before_deploy:
+- "mvn clean"
+- "mvn -DskipTests package"
+- "zip -j anitomyj-$TRAVIS_TAG.zip target/*.jar README.md"
+deploy:
+  api-key:
+    secure: PnAVMO0FvpspVS0fuojTiE2T3GyflpRBRmkhB52hvimZ4qjLeR/d92eTEe1D4KclhEb/YWKWKE+7wlC5HQCGcTIr6vtvEyqOj8wiZ2eY+MYfr4psluEEmoaiB5MNvd8LIuGZ8Pv2+t+BIq21J96W3zZGty3zGsfnSDGZjdH768g4x21kuSPYxZFRaxk9aUN1LP1/MG9gouxxv17MoKsUqalWw7VRpx3tt2qOMCgGJHX5cX5ZiBz8ZU5i34WuuNjvZH0I78QGP+raTDoRstyOw0UNYXbTdKuHxRalxg9nIOuo5evTn3mcR2rhpjeNtSTQJ6hyTuBFPG4NQtzxZhIbqZ7r9zE09bjJ6HGAtmwDBXdXXZ2zcz1KMjovuc6XmgQq43s45yuFQX6n8cDYDepeeUVpbiiSzK0SzM1qGQ+MZ4BsWVVsQgBdGi/MHIftHorUC3FDlOjCYbgV4reBGgVOjUkVNWXP6vwvxHggBk8uNhg8CqsvwQCufRQjLOMoQ7FRJLvnbkda/EGxe1WK99Q7dk2aRshEQkTXK2TVVRLhlzCVHZyMqZuohCp+bBU/TGgqzVPmMgIdLIfNVvbcsdTKzcrCv8U6K9TgSDdxhjuUNHOGnm1sxmW/uCIUVbKPKGCgXjL+AdR0LIZze8p3rdOPbdD9THNEWI2tbmuOeearKL8=
+  provider: releases
+  skip_cleanup: true
+  file: "anitomyj-$TRAVIS_TAG.zip"
+  on:
+    tags: true
+    all_branches: true
+    condition: "$TRAVIS_TAG =~ ^v.*$"
