@@ -6,7 +6,7 @@
 
     <groupId>com.dgtlrepublic</groupId>
     <artifactId>anitomyJ</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 
     <name>AnitomyJ</name>
     <description>AnitomyForJava is a Java port of Anitomy, a library for parsing anime video filenames. It's accurate,
