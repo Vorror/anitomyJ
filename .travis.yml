@@ -9,7 +9,7 @@ notifications:
     on_success: never
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_c918c660e629_key -iv $encrypted_c918c660e629_iv -in cd/codesigning.asc.enc -out cd/codesigning.asc -d
-- gpg --fast-import cd/codesigning.asc
+- echo "y" | gpg --fast-import cd/codesigning.asc
 - mvn clean -DskipTests deploy --settings cd/settings.xml
 - zip -j anitomyj-$TRAVIS_TAG.zip target/*.jar README.md
 deploy:
