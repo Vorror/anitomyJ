@@ -84,7 +84,7 @@ That being said if the output of AnitomyJ and Anitomy differ in *any way* please
 
 ## FAQ
 
-- Why didn't you use JNI/JNA over porting over the library?
+- Why didn't you use JNI/JNA?
 
     That was an option, but since anitomy is a small library I decided just to just to rewrite it in native Java. The average SLOC is about 140 lines per java file, so it didn't take much time.
 
