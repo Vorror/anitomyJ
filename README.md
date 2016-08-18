@@ -11,7 +11,7 @@
 
 The following filename...
 
-    [BM&T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p FLAC] [BD] [8F59F2BA].mkv
+    [BM&T] Toradora! - 07v2 - Pool Opening  (2008) [720p Hi10p FLAC] [BD] [8F59F2BA].mkv
 
 ...would be resolved into these elements:
 
@@ -34,24 +34,21 @@ import com.dgtlrepublic.anitomyj.AnitomyJ;
 import com.dgtlrepublic.anitomyj.Element;
 
 public class Main {
-    public static void main(String[] args) {
-        List<Element> elements = AnitomyJ.parse(
-                "[BM&T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p FLAC] [BD] [8F59F2BA].mkv");
+    public static void main(String args[]) {
+        List<Element> elements = AnitomyJ.parse("[BM&T] Toradora! - 07v2 - Pool Opening  (2008) [720p Hi10p FLAC] [BD] [8F59F2BA].mkv");
         System.out.println(elements.stream()
                                    .map(e -> e.getCategory().name() + "=" + e.getValue())
                                    .collect(Collectors.joining("\n")));
     }
 }
-
 ```
 
 ...which will output:
 
 ```
 kElementFileExtension=mkv
-kElementFileName=[BM&T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p FLAC] [BD] [8F59F2BA]
+kElementFileName=[BM&T] Toradora! - 07v2 - Pool Opening  (2008) [720p Hi10p FLAC] [BD] [8F59F2BA]
 kElementVideoResolution=720p
-kElementAnimeType=Opening
 kElementVideoTerm=Hi10p
 kElementAudioTerm=FLAC
 kElementSource=BD
@@ -61,6 +58,7 @@ kElementEpisodeNumber=07
 kElementReleaseVersion=2
 kElementAnimeTitle=Toradora!
 kElementReleaseGroup=BM&T
+kElementEpisodeTitle=Pool Opening
 ```
 ## Installation
 ### Requirements
