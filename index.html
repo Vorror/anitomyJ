@@ -1,0 +1,166 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>AnitomyJ by Vorror</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>AnitomyJ</h1>
+        <p>AnitomyForJava is a Java port of Anitomy, a library for parsing anime video filenames. It&#39;s accurate, fast, and simple to use.</p>
+
+        <p class="view"><a href="https://github.com/Vorror/anitomyJ">View the Project on GitHub <small>Vorror/anitomyJ</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/Vorror/anitomyJ/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/Vorror/anitomyJ/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/Vorror/anitomyJ">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <p><a href="https://travis-ci.org/Vorror/anitomyJ"><img src="https://img.shields.io/travis/Vorror/anitomyJ/master.svg?style=flat-square" alt="TravisCI"></a>
+<a href="http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22anitomyJ%22"><img src="https://img.shields.io/maven-central/v/com.dgtlrepublic/anitomyJ.svg?style=flat-square" alt="Maven Central"></a>
+<a href="http://javadoc.io/doc/com.dgtlrepublic/anitomyJ"><img src="http://javadoc.io/badge/com.dgtlrepublic/anitomyJ.svg?style=flat-square" alt="Javadocs"></a>
+<a href="https://opensource.org/licenses/MPL-2.0"><img src="https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg?style=flat-square" alt="License: MPL 2.0"></a></p>
+
+<h1>
+<a id="anitomyforjava" class="anchor" href="#anitomyforjava" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>AnitomyForJava</h1>
+
+<blockquote>
+<p><em>AnitomyForJava</em> is a Java port of <a href="https://github.com/erengy/anitomy">Anitomy</a>, a library for parsing anime video filenames. It's accurate, fast, and simple to use. All credit goes to <a href="https://github.com/erengy">@erengy</a>. I simply ported it.</p>
+</blockquote>
+
+<h2>
+<a id="examples" class="anchor" href="#examples" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Examples</h2>
+
+<p>The following filename...</p>
+
+<pre><code>[BM&amp;T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p FLAC] [BD] [8F59F2BA].mkv
+</code></pre>
+
+<p>...would be resolved into these elements:</p>
+
+<ul>
+<li>Release group: <em>BM&amp;T</em>
+</li>
+<li>Anime title: <em>Toradora!</em>
+</li>
+<li>Anime year: <em>2008</em>
+</li>
+<li>Episode number: <em>07</em>
+</li>
+<li>Source: <em>BD</em>
+</li>
+<li>Release version: <em>2</em>
+</li>
+<li>Episode title: <em>Pool Opening</em>
+</li>
+<li>Video resolution: <em>720p</em>
+</li>
+<li>Video term: <em>Hi10p</em>
+</li>
+<li>Audio term: <em>FLAC</em>
+</li>
+<li>File checksum: <em>8F59F2BA</em>
+</li>
+</ul>
+
+<p>Here's an example code snippet...</p>
+
+<div class="highlight highlight-source-java"><pre><span class="pl-k">import</span> <span class="pl-smi">com.dgtlrepublic.anitomyj.AnitomyJ</span>;
+<span class="pl-k">import</span> <span class="pl-smi">com.dgtlrepublic.anitomyj.Element</span>;
+
+<span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">Main</span> {
+    <span class="pl-k">public</span> <span class="pl-k">static</span> <span class="pl-k">void</span> <span class="pl-en">main</span>(<span class="pl-k">String</span>[] <span class="pl-v">args</span>) {
+        <span class="pl-k">List&lt;<span class="pl-smi">Element</span>&gt;</span> elements <span class="pl-k">=</span> <span class="pl-smi">AnitomyJ</span><span class="pl-k">.</span>parse(
+                <span class="pl-s"><span class="pl-pds">"</span>[BM&amp;T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p FLAC] [BD] [8F59F2BA].mkv<span class="pl-pds">"</span></span>);
+        <span class="pl-smi">System</span><span class="pl-k">.</span>out<span class="pl-k">.</span>println(elements<span class="pl-k">.</span>stream()
+                                   .map(e <span class="pl-k">-</span><span class="pl-k">&gt;</span> e<span class="pl-k">.</span>getCategory()<span class="pl-k">.</span>name() <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">"</span>=<span class="pl-pds">"</span></span> <span class="pl-k">+</span> e<span class="pl-k">.</span>getValue())
+                                   .collect(<span class="pl-smi">Collectors</span><span class="pl-k">.</span>joining(<span class="pl-s"><span class="pl-pds">"</span><span class="pl-cce">\n</span><span class="pl-pds">"</span></span>)));
+    }
+}
+</pre></div>
+
+<p>...which will output:</p>
+
+<pre><code>kElementFileExtension=mkv
+kElementFileName=[BM&amp;T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p FLAC] [BD] [8F59F2BA]
+kElementVideoResolution=720p
+kElementAnimeType=Opening
+kElementVideoTerm=Hi10p
+kElementAudioTerm=FLAC
+kElementSource=BD
+kElementFileChecksum=8F59F2BA
+kElementAnimeYear=2008
+kElementEpisodeNumber=07
+kElementReleaseVersion=2
+kElementAnimeTitle=Toradora!
+kElementReleaseGroup=BM&amp;T
+</code></pre>
+
+<h2>
+<a id="installation" class="anchor" href="#installation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Installation</h2>
+
+<h3>
+<a id="requirements" class="anchor" href="#requirements" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Requirements</h3>
+
+<p>Java 8+</p>
+
+<h3>
+<a id="maven-release" class="anchor" href="#maven-release" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Maven Release</h3>
+
+<p>Add the following to your pom.xml:</p>
+
+<pre><code>&lt;dependency&gt;
+    &lt;groupId&gt;com.dgtlrepublic&lt;/groupId&gt;
+    &lt;artifactId&gt;anitomyJ&lt;/artifactId&gt;
+&lt;/dependency&gt;
+</code></pre>
+
+<h3>
+<a id="binary-release" class="anchor" href="#binary-release" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Binary Release</h3>
+
+<p>Binary releases can be found <a href="https://github.com/Vorror/anitomyJ/releases/latest">here</a>. Apache Commons(v3.4+) and Apache Commons Collections(v3.2+) are required. For convenience <code>anitomyJ-&lt;version&gt;-with-dependencies.jar</code> is provided, but installing the dependencies manually is recommended.</p>
+
+<h2>
+<a id="issues--pull-requests" class="anchor" href="#issues--pull-requests" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Issues &amp; Pull Requests</h2>
+
+<p>For the most part, AnitomyJ aims to be an exact Java replica of the original Anitomy. To make porting upstream changes easier most of the logic + file structure remain similar to their c++ counterparts. So, for the time being, I won't be accepting pull requests/issues that change the core parsing logic. I suggest opening an issue with the original Anitomy project and when it's fixed I'll merge it downstream.</p>
+
+<p>That being said if the output of AnitomyJ and Anitomy differ in <em>any way</em> please open an issue.</p>
+
+<h2>
+<a id="faq" class="anchor" href="#faq" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>FAQ</h2>
+
+<ul>
+<li>
+<p>Why didn't you use JNI/JNA over porting over the library?</p>
+
+<p>That was an option, but since anitomy is a small library I decided just to just to rewrite it in native Java. The average SLOC is about 140 lines per java file, so it didn't take much time.</p>
+</li>
+</ul>
+
+<h2>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h2>
+
+<p><em>AnitomyForJava</em> is licensed under <a href="https://www.mozilla.org/en-US/MPL/2.0/FAQ/">Mozilla Public License 2.0</a>.</p>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/Vorror">Vorror</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
