@@ -35,7 +35,8 @@ import com.dgtlrepublic.anitomyj.Element;
 
 public class Main {
     public static void main(String args[]) {
-        List<Element> elements = AnitomyJ.parse("[BM&T] Toradora! - 07v2 - Pool Opening  (2008) [720p Hi10p FLAC] [BD] [8F59F2BA].mkv");
+        String filename = "[BM&T] Toradora! - 07v2 - Pool Opening  (2008) [720p Hi10p FLAC] [BD] [8F59F2BA].mkv";
+        List<Element> elements = AnitomyJ.parse(filename);
         System.out.println(elements.stream()
                                    .map(e -> e.getCategory().name() + "=" + e.getValue())
                                    .collect(Collectors.joining("\n")));
