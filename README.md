@@ -11,7 +11,7 @@
 
 The following filename...
 
-    [BM&T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p ] [BD] [8F59F2BA].mkv
+    [BM&T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p FLAC] [BD] [8F59F2BA].mkv
 
 ...would be resolved into these elements:
 
@@ -36,7 +36,7 @@ import com.dgtlrepublic.anitomyj.Element;
 public class Main {
     public static void main(String[] args) {
         List<Element> elements = AnitomyJ.parse(
-                "[BM&T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p ] [BD] [8F59F2BA].mkv");
+                "[BM&T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p FLAC] [BD] [8F59F2BA].mkv");
         System.out.println(elements.stream()
                                    .map(e -> e.getCategory().name() + "=" + e.getValue())
                                    .collect(Collectors.joining("\n")));
@@ -49,10 +49,11 @@ public class Main {
 
 ```
 kElementFileExtension=mkv
-kElementFileName=[BM&T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p ] [BD] [8F59F2BA]
+kElementFileName=[BM&T] Toradora! (2008) - 07v2 - Pool Opening [720p Hi10p FLAC] [BD] [8F59F2BA]
 kElementVideoResolution=720p
 kElementAnimeType=Opening
 kElementVideoTerm=Hi10p
+kElementAudioTerm=FLAC
 kElementSource=BD
 kElementFileChecksum=8F59F2BA
 kElementAnimeYear=2008
