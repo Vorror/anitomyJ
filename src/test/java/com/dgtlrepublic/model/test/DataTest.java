@@ -10,37 +10,78 @@
 package com.dgtlrepublic.model.test;
 
 import java.io.File;
-import java.io.IOException;
+import java.util.Collection;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
+import java.util.concurrent.TimeUnit;
 
+import org.apache.commons.lang3.StringUtils;
 import org.junit.Test;
 
-import com.dgtlrepublic.anitomyj.AnitomyJ;
-import com.dgtlrepublic.anitomyj.Element;
+import com.dgtlrepublic.model.utility.DataJsonConverter;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-// TODO: 8/14/2016 fix out test situation *shrugs* 
+/**
+ * Parsing unit tests.
+ *
+ * @author Paul Miller
+ */
 public class DataTest {
-
     @Test
-    public void testData() {
-        List<Map> entries = null;
-        try {
-            ObjectMapper mapper = new ObjectMapper();
-            File src = new File(DataTest.class.getResource("/data.json").getPath());
-            entries = mapper.readValue(src, new TypeReference<List<Map>>() { });
-            System.out.println(entries);
-        } catch (IOException e) {
-            e.printStackTrace();
+    public void validateParsingResults() throws Exception {
+        List<Map> testCases = new ObjectMapper().readValue(new File(DataTest.class.getResource("/test-cases.json")
+                                                                            .getPath()),
+                                                           new TypeReference<List<Map>>() { });
+        System.out.println(String.format("Loaded %s test cases.", testCases.size()));
+        long start = System.nanoTime();
+        for (Map testCase : testCases) { verify(testCase); }
+        System.out.println(String.format("Tests took: %s(ms)",
+                                         TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - start)));
+    }
+
+    @SuppressWarnings("unchecked")
+    private static void verify(Map entry) throws Exception {
+        String fileName = (String) entry.getOrDefault("file_name", "");
+        boolean ignore = (Boolean) entry.getOrDefault("ignore", false);
+        int id = (Integer) entry.getOrDefault("id", -1);
+        HashMap<String, Object> testCases = (HashMap<String, Object>) entry.getOrDefault("results",
+                                                                                         new HashMap<String, Object>());
+        if (ignore || StringUtils.isBlank(fileName) || testCases.size() == 0) {
+            System.out.println(String.format("Ignoring [%s] : { id: %s | results: %s | explicit: %s }",
+                                             fileName,
+                                             id,
+                                             testCases.size(),
+                                             ignore));
+            return;
         }
 
-        for (Map entry : entries) {
-            String  file_name1 = (String)entry.get("file_name");
-            List<Element> file_name = AnitomyJ.parse(file_name1);
-            System.out.println(file_name1);
-            file_name.forEach(element -> System.out.println("\t"+element));
+        System.out.println("Parsing: " + fileName);
+        HashMap<String, Object> parseResults = (HashMap<String, Object>) DataJsonConverter.toTestCaseMap(fileName)
+                .getOrDefault("results", null);
+
+        for (Entry<String, Object> testCase : testCases.entrySet()) {
+            Object elValue = parseResults.get(testCase.getKey());
+            if (elValue == null) {
+                throw new Exception(String.format("%n[%s] Missing Element: %s [%s]",
+                                                  fileName,
+                                                  testCase.getKey(),
+                                                  testCase.getValue()));
+            } else if (elValue instanceof String && !elValue.equals(testCase.getValue())) {
+                throw new Exception(String.format("%n[%s] Incorrect Value:(%s) [%s] { required: [%s] } ",
+                                                  fileName,
+                                                  testCase.getKey(),
+                                                  elValue,
+                                                  testCase.getValue()));
+            } else if (elValue instanceof List && !((List) elValue).containsAll((Collection<?>) testCase.getValue())) {
+                throw new Exception(String.format("%n[%s] Incorrect List Values:(%s) [%s] { required: [%s] } ",
+                                                  fileName,
+                                                  testCase.getKey(),
+                                                  elValue,
+                                                  testCase.getValue()));
+            }
         }
     }
 }

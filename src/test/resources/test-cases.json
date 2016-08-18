@@ -1,0 +1,2334 @@
+[ {
+  "file_name" : "[ANBU]_Princess_Lover!_-_01_[2048A39A].mkv",
+  "id" : 6201,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Princess Lover!",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "2048A39A",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[ANBU]_Princess_Lover!_-_01_[2048A39A]",
+    "kElementReleaseGroup" : "ANBU"
+  }
+}, {
+  "file_name" : "[ANBU-Menclave]_Canaan_-_01_[1024x576_H.264_AAC][12F00E89].mkv",
+  "id" : 5356,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Canaan",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "12F00E89",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[ANBU-Menclave]_Canaan_-_01_[1024x576_H.264_AAC][12F00E89]",
+    "kElementReleaseGroup" : "ANBU-Menclave",
+    "kElementVideoResolution" : "1024x576",
+    "kElementVideoTerm" : "H.264"
+  }
+}, {
+  "file_name" : "[ANBU-umai]_Haiyoru!_Nyaru-Ani_[596DD8E6].mkv",
+  "id" : 7596,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Haiyoru! Nyaru-Ani",
+    "kElementFileChecksum" : "596DD8E6",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[ANBU-umai]_Haiyoru!_Nyaru-Ani_[596DD8E6]",
+    "kElementReleaseGroup" : "ANBU-umai"
+  }
+}, {
+  "file_name" : "[BakaWolf-m.3.3.w] Special A 01 (H.264) [C83164B9].mkv",
+  "id" : 3470,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Special A",
+    "kElementAnimeType" : "Special",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "C83164B9",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[BakaWolf-m.3.3.w] Special A 01 (H.264) [C83164B9]",
+    "kElementReleaseGroup" : "BakaWolf-m.3.3.w",
+    "kElementVideoTerm" : "H.264"
+  }
+}, {
+  "file_name" : "[chibi-Doki] Seikon no Qwaser - 13v0 (Uncensored Director's Cut) [988DB090].mkv",
+  "id" : 6500,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Seikon no Qwaser",
+    "kElementEpisodeNumber" : "13",
+    "kElementFileChecksum" : "988DB090",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[chibi-Doki] Seikon no Qwaser - 13v0 (Uncensored Director's Cut) [988DB090]",
+    "kElementOther" : "Uncensored",
+    "kElementReleaseGroup" : "chibi-Doki",
+    "kElementReleaseVersion" : "0"
+  }
+}, {
+  "file_name" : "[Chihiro]_Kono_Aozora_ni_Yakusoku_Wo_10_v2_[DVD][h264][C83D206B].mkv",
+  "id" : 2155,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Kono Aozora ni Yakusoku Wo",
+    "kElementEpisodeNumber" : "10",
+    "kElementFileChecksum" : "C83D206B",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Chihiro]_Kono_Aozora_ni_Yakusoku_Wo_10_v2_[DVD][h264][C83D206B]",
+    "kElementReleaseGroup" : "Chihiro",
+    "kElementReleaseVersion" : "2",
+    "kElementSource" : "DVD",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[Coalgirls]_Toradora_ED2_(704x480_DVD_AAC)_[3B65D1E6].mkv",
+  "id" : 4224,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Toradora ED",
+    "kElementAnimeType" : "ED",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "2",
+    "kElementFileChecksum" : "3B65D1E6",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Coalgirls]_Toradora_ED2_(704x480_DVD_AAC)_[3B65D1E6]",
+    "kElementReleaseGroup" : "Coalgirls",
+    "kElementSource" : "DVD",
+    "kElementVideoResolution" : "704x480"
+  }
+}, {
+  "file_name" : "[Conclave-Mendoi]_Mobile_Suit_Gundam_00_S2_-_01v2_[1280x720_H.264_AAC][4863FBE8].mkv",
+  "id" : 3927,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Mobile Suit Gundam 00 S2",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "4863FBE8",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Conclave-Mendoi]_Mobile_Suit_Gundam_00_S2_-_01v2_[1280x720_H.264_AAC][4863FBE8]",
+    "kElementReleaseGroup" : "Conclave-Mendoi",
+    "kElementReleaseVersion" : "2",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "H.264"
+  }
+}, {
+  "file_name" : "[DB]_Bleach_225_[C63D149C].avi",
+  "id" : 269,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Bleach",
+    "kElementEpisodeNumber" : "225",
+    "kElementFileChecksum" : "C63D149C",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "[DB]_Bleach_225_[C63D149C]",
+    "kElementReleaseGroup" : "DB"
+  }
+}, {
+  "file_name" : "[Frostii]_Nodame_Cantabile_Finale_-_00_[73AD0735].mkv",
+  "id" : 5690,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Nodame Cantabile Finale",
+    "kElementEpisodeNumber" : "00",
+    "kElementFileChecksum" : "73AD0735",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Frostii]_Nodame_Cantabile_Finale_-_00_[73AD0735]",
+    "kElementReleaseGroup" : "Frostii"
+  }
+}, {
+  "file_name" : "[Hard-Boiled FS]FullMetalAlchemist_09.rmvb",
+  "id" : 121,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "FullMetalAlchemist",
+    "kElementEpisodeNumber" : "09",
+    "kElementFileExtension" : "rmvb",
+    "kElementFileName" : "[Hard-Boiled FS]FullMetalAlchemist_09",
+    "kElementReleaseGroup" : "Hard-Boiled FS"
+  }
+}, {
+  "file_name" : "[HorribleSubs] Tower of Druaga - Sword of Uruk - 04 [480p].mkv",
+  "id" : 4726,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Tower of Druaga - Sword of Uruk",
+    "kElementEpisodeNumber" : "04",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[HorribleSubs] Tower of Druaga - Sword of Uruk - 04 [480p]",
+    "kElementReleaseGroup" : "HorribleSubs",
+    "kElementVideoResolution" : "480p"
+  }
+}, {
+  "file_name" : "[Juuni.Kokki]-(Les.12.Royaumes)-[Ep.24]-[x264+OGG]-[JAP+FR+Sub.FR]-[Chap]-[AzF].mkv",
+  "id" : 153,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "(Les 12 Royaumes)",
+    "kElementAudioTerm" : "OGG",
+    "kElementEpisodeNumber" : "24",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Juuni.Kokki]-(Les.12.Royaumes)-[Ep.24]-[x264+OGG]-[JAP+FR+Sub.FR]-[Chap]-[AzF]",
+    "kElementLanguage" : "JAP",
+    "kElementReleaseGroup" : "Juuni.Kokki",
+    "kElementSubtitles" : "Sub",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[KAF-TEAM]_One_Piece_Movie_9_vostfr_HD.avi",
+  "id" : 3848,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "One Piece Movie 9",
+    "kElementAnimeType" : "Movie",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "[KAF-TEAM]_One_Piece_Movie_9_vostfr_HD",
+    "kElementLanguage" : "vostfr",
+    "kElementReleaseGroup" : "KAF-TEAM",
+    "kElementVideoTerm" : "HD"
+  }
+}, {
+  "file_name" : "[kito].Nazca.episode.01.DVDRip.[x264.He-aac.{Jpn}+Sub{Fr}].mkv",
+  "id" : 1775,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Nazca",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[kito].Nazca.episode.01.DVDRip.[x264.He-aac.{Jpn}+Sub{Fr}]",
+    "kElementReleaseGroup" : "kito",
+    "kElementSource" : "DVDRip",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[Lambda-Delta]_Umineko_no_Naku_Koro_ni_-_11_[848x480_H.264_AAC][943106AD].mkv",
+  "id" : 4896,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Umineko no Naku Koro ni",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "11",
+    "kElementFileChecksum" : "943106AD",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Lambda-Delta]_Umineko_no_Naku_Koro_ni_-_11_[848x480_H.264_AAC][943106AD]",
+    "kElementReleaseGroup" : "Lambda-Delta",
+    "kElementVideoResolution" : "848x480",
+    "kElementVideoTerm" : "H.264"
+  }
+}, {
+  "file_name" : "[SS]_Kemono_no_Souja_Erin_-_12_(1280x720_h264)_[0F5F884F].mkv",
+  "id" : 5420,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Kemono no Souja Erin",
+    "kElementEpisodeNumber" : "12",
+    "kElementFileChecksum" : "0F5F884F",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[SS]_Kemono_no_Souja_Erin_-_12_(1280x720_h264)_[0F5F884F]",
+    "kElementReleaseGroup" : "SS",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[Taka]_Fullmetal_Alchemist_(2009)_04_[720p][40F2A957].mp4",
+  "id" : 5114,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Fullmetal Alchemist",
+    "kElementAnimeYear" : "2009",
+    "kElementEpisodeNumber" : "04",
+    "kElementFileChecksum" : "40F2A957",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[Taka]_Fullmetal_Alchemist_(2009)_04_[720p][40F2A957]",
+    "kElementReleaseGroup" : "Taka",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[UTW-TMD]_Summer_Wars_[BD][h264-720p][TrueHD5.1][9F311DAB].mkv",
+  "id" : 5681,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Summer Wars",
+    "kElementAudioTerm" : "TrueHD5.1",
+    "kElementFileChecksum" : "9F311DAB",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[UTW-TMD]_Summer_Wars_[BD][h264-720p][TrueHD5.1][9F311DAB]",
+    "kElementReleaseGroup" : "UTW-TMD",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[ValdikSS]_First_Squad_The_Morment_Of_Truth_[720x576_h264_dvdscr_eng_hardsub].mkv",
+  "id" : 5178,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "First Squad The Morment Of Truth",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[ValdikSS]_First_Squad_The_Morment_Of_Truth_[720x576_h264_dvdscr_eng_hardsub]",
+    "kElementLanguage" : "eng",
+    "kElementReleaseGroup" : "ValdikSS",
+    "kElementSubtitles" : "hardsub",
+    "kElementVideoResolution" : "720x576",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "Code_Geass_R2_TV_[20_of_25]_[ru_jp]_[HDTV]_[Varies_&_Cuba77_&_AnimeReactor_RU].mkv",
+  "id" : 2904,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Code Geass R2 TV",
+    "kElementAnimeType" : "TV",
+    "kElementEpisodeNumber" : "20",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Code_Geass_R2_TV_[20_of_25]_[ru_jp]_[HDTV]_[Varies_&_Cuba77_&_AnimeReactor_RU]",
+    "kElementReleaseGroup" : "ru_jp",
+    "kElementSource" : "HDTV"
+  }
+}, {
+  "file_name" : "Evangelion_1.11_You_Are_(Not)_Alone_(2009)_[1080p,BluRay,x264,DTS-ES]_-_THORA.mkv",
+  "id" : 2759,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Evangelion 1.11 You Are (Not) Alone",
+    "kElementAnimeYear" : "2009",
+    "kElementAudioTerm" : "DTS-ES",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Evangelion_1.11_You_Are_(Not)_Alone_(2009)_[1080p,BluRay,x264,DTS-ES]_-_THORA",
+    "kElementReleaseGroup" : "THORA",
+    "kElementSource" : "BluRay",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "Evangelion_1.11_You_Are_(Not)_Alone_[1080p,BluRay,x264,DTS-ES]_-_THORA.mkv",
+  "id" : 2759,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Evangelion 1.11 You Are (Not) Alone",
+    "kElementAudioTerm" : "DTS-ES",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Evangelion_1.11_You_Are_(Not)_Alone_[1080p,BluRay,x264,DTS-ES]_-_THORA",
+    "kElementReleaseGroup" : "THORA",
+    "kElementSource" : "BluRay",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "Eve no Jikan 2 [88F4F7F0].mkv",
+  "id" : 3167,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Eve no Jikan",
+    "kElementEpisodeNumber" : "2",
+    "kElementFileChecksum" : "88F4F7F0",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Eve no Jikan 2 [88F4F7F0]"
+  }
+}, {
+  "file_name" : "Gin'iro_no_Kami_no_Agito_(2006)_[1080p,BluRay,x264,DTS]_-_THORA.mkv",
+  "id" : 1140,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Gin'iro no Kami no Agito",
+    "kElementAnimeYear" : "2006",
+    "kElementAudioTerm" : "DTS",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Gin'iro_no_Kami_no_Agito_(2006)_[1080p,BluRay,x264,DTS]_-_THORA",
+    "kElementReleaseGroup" : "THORA",
+    "kElementSource" : "BluRay",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "Magical Girl Lyrical Nanoha A's - 01.DVD[H264.AAC][DGz][7A8A7769].mkv",
+  "id" : 77,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Magical Girl Lyrical Nanoha A's",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "7A8A7769",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Magical Girl Lyrical Nanoha A's - 01.DVD[H264.AAC][DGz][7A8A7769]",
+    "kElementReleaseGroup" : "DGz",
+    "kElementSource" : "DVD",
+    "kElementVideoTerm" : "H264"
+  }
+}, {
+  "file_name" : "Mobile_Suit_Gundam_00_Season_2_Ep07_A_Reunion_and_a_Parting_[1080p,BluRay,x264]_-_THORA.mkv",
+  "id" : 3927,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeSeason" : "2",
+    "kElementAnimeTitle" : "Mobile Suit Gundam 00",
+    "kElementEpisodeNumber" : "07",
+    "kElementEpisodeTitle" : "A Reunion and a Parting",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Mobile_Suit_Gundam_00_Season_2_Ep07_A_Reunion_and_a_Parting_[1080p,BluRay,x264]_-_THORA",
+    "kElementReleaseGroup" : "THORA",
+    "kElementSource" : "BluRay",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "Noein_[01_of_24]_[ru_jp]_[bodlerov_&_torrents_ru].mkv",
+  "id" : 584,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Noein",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Noein_[01_of_24]_[ru_jp]_[bodlerov_&_torrents_ru]",
+    "kElementReleaseGroup" : "ru_jp"
+  }
+}, {
+  "file_name" : "ponyo_on_the_cliff_by_the_sea[h264.dts][niizk].mkv",
+  "id" : 2890,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "ponyo on the cliff by the sea",
+    "kElementAudioTerm" : "dts",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "ponyo_on_the_cliff_by_the_sea[h264.dts][niizk]",
+    "kElementReleaseGroup" : "niizk",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[Seto_Otaku]_AIKa_ZERO_OVA_-_01_[BD][1920x1080_H264-Flac][6730D40A].mkv",
+  "id" : 6443,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "AIKa ZERO OVA",
+    "kElementAnimeType" : "OVA",
+    "kElementAudioTerm" : "Flac",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "6730D40A",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Seto_Otaku]_AIKa_ZERO_OVA_-_01_[BD][1920x1080_H264-Flac][6730D40A]",
+    "kElementReleaseGroup" : "Seto_Otaku",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1920x1080",
+    "kElementVideoTerm" : "H264"
+  }
+}, {
+  "file_name" : "[a4e]R.O.D_the_TV_01[divx5.2.1].mkv",
+  "id" : 209,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "R.O.D the TV",
+    "kElementAnimeType" : "TV",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[a4e]R.O.D_the_TV_01[divx5.2.1]",
+    "kElementReleaseGroup" : "a4e"
+  }
+}, {
+  "file_name" : "Ghost_in_the_Shell_Stand_Alone_Complex_2nd_GIG_Ep05v2_EXCAVATION_[720p,HDTV,x264,AAC_5.1]_-_THORA.mkv",
+  "id" : 801,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Ghost in the Shell Stand Alone Complex 2nd GIG",
+    "kElementAudioTerm" : [ "AAC", "5.1" ],
+    "kElementEpisodeNumber" : "05",
+    "kElementEpisodeTitle" : "EXCAVATION",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Ghost_in_the_Shell_Stand_Alone_Complex_2nd_GIG_Ep05v2_EXCAVATION_[720p,HDTV,x264,AAC_5.1]_-_THORA",
+    "kElementReleaseGroup" : "THORA",
+    "kElementReleaseVersion" : "2",
+    "kElementSource" : "HDTV",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "Ghost_in_the_Shell_Stand_Alone_Complex_2nd_GIG_Ep06_Pu239_[720p,HDTV,x264,AAC_5.1]_-_THORA.mkv",
+  "id" : 801,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Ghost in the Shell Stand Alone Complex 2nd GIG",
+    "kElementAudioTerm" : [ "AAC", "5.1" ],
+    "kElementEpisodeNumber" : "06",
+    "kElementEpisodeTitle" : "Pu239",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Ghost_in_the_Shell_Stand_Alone_Complex_2nd_GIG_Ep06_Pu239_[720p,HDTV,x264,AAC_5.1]_-_THORA",
+    "kElementReleaseGroup" : "THORA",
+    "kElementSource" : "HDTV",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "Fate_Stay_Night_Ep05_The_Two_Magi_Part1_[720p,BluRay,x264]_-_THORA.mkv",
+  "id" : 356,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Fate Stay Night",
+    "kElementEpisodeNumber" : "05",
+    "kElementEpisodeTitle" : "The Two Magi Part1",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Fate_Stay_Night_Ep05_The_Two_Magi_Part1_[720p,BluRay,x264]_-_THORA",
+    "kElementReleaseGroup" : "THORA",
+    "kElementSource" : "BluRay",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[RaX]Mezzo(DSA)_-_05_-_[x264_ogg]_[585d9971].mkv",
+  "id" : 222,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Mezzo(DSA)",
+    "kElementAudioTerm" : "ogg",
+    "kElementEpisodeNumber" : "05",
+    "kElementFileChecksum" : "585d9971",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[RaX]Mezzo(DSA)_-_05_-_[x264_ogg]_[585d9971]",
+    "kElementReleaseGroup" : "RaX",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[AKH-SWE]_Fullmetal_Alchemist_(2009)_02v2_[H.264.AAC][7B2C5E8B].mkv",
+  "id" : 5114,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Fullmetal Alchemist",
+    "kElementAnimeYear" : "2009",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "02",
+    "kElementFileChecksum" : "7B2C5E8B",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[AKH-SWE]_Fullmetal_Alchemist_(2009)_02v2_[H.264.AAC][7B2C5E8B]",
+    "kElementReleaseGroup" : "AKH-SWE",
+    "kElementReleaseVersion" : "2",
+    "kElementVideoTerm" : "H.264"
+  }
+}, {
+  "file_name" : "[FuktLogik][Sayonara_Zetsubou_Sensei][01][DVDRip][x264_AC3].mkv",
+  "id" : 2605,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Sayonara Zetsubou Sensei",
+    "kElementAudioTerm" : "AC3",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[FuktLogik][Sayonara_Zetsubou_Sensei][01][DVDRip][x264_AC3]",
+    "kElementReleaseGroup" : "FuktLogik",
+    "kElementSource" : "DVDRip",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[Ayu]_Kiddy_Grade_2_-_Pilot_[H264_AC3][650B731B].mkv",
+  "id" : -1,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Kiddy Grade",
+    "kElementAudioTerm" : "AC3",
+    "kElementEpisodeNumber" : "2",
+    "kElementEpisodeTitle" : "Pilot",
+    "kElementFileChecksum" : "650B731B",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Ayu]_Kiddy_Grade_2_-_Pilot_[H264_AC3][650B731B]",
+    "kElementReleaseGroup" : "Ayu",
+    "kElementVideoTerm" : "H264"
+  }
+}, {
+  "file_name" : "[Darksoul-Subs] Tatakau Shisho - The Book of Bantorra [848x480 XVID_MP3].mkv",
+  "id" : 6758,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Tatakau Shisho - The Book of Bantorra",
+    "kElementAudioTerm" : "MP3",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Darksoul-Subs] Tatakau Shisho - The Book of Bantorra [848x480 XVID_MP3]",
+    "kElementReleaseGroup" : "Darksoul-Subs",
+    "kElementVideoResolution" : "848x480",
+    "kElementVideoTerm" : "XVID"
+  }
+}, {
+  "file_name" : "[ACX]Neon_Genesis_Evangelion_-_Platinum_-_06_-_Showdown_in_Tokyo_3_[SaintDeath]_[CBDB8577].mkv",
+  "id" : 30,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Neon Genesis Evangelion - Platinum",
+    "kElementEpisodeNumber" : "06",
+    "kElementEpisodeTitle" : "Showdown in Tokyo 3",
+    "kElementFileChecksum" : "CBDB8577",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[ACX]Neon_Genesis_Evangelion_-_Platinum_-_06_-_Showdown_in_Tokyo_3_[SaintDeath]_[CBDB8577]",
+    "kElementReleaseGroup" : "ACX"
+  }
+}, {
+  "file_name" : "[Himatsubushi]_Sora_no_Woto_-_01_-_H264_-_720p_-_E83AD672.mkv",
+  "id" : 6802,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Sora no Woto",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "E83AD672",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Himatsubushi]_Sora_no_Woto_-_01_-_H264_-_720p_-_E83AD672",
+    "kElementReleaseGroup" : "Himatsubushi",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "H264"
+  }
+}, {
+  "file_name" : "[EroGaKi-Team]_Nurse_Witch_Komugi-chan_Magikarte_02.5_[902BB314].mkv",
+  "id" : 920,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Nurse Witch Komugi-chan Magikarte",
+    "kElementEpisodeNumber" : "02.5",
+    "kElementFileChecksum" : "902BB314",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[EroGaKi-Team]_Nurse_Witch_Komugi-chan_Magikarte_02.5_[902BB314]",
+    "kElementReleaseGroup" : "EroGaKi-Team"
+  }
+}, {
+  "file_name" : "Ookiku Furikabutte S2 - 09 (Central Anime) [BD841253].mkv",
+  "id" : 7720,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Ookiku Furikabutte S2",
+    "kElementEpisodeNumber" : "09",
+    "kElementFileChecksum" : "BD841253",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Ookiku Furikabutte S2 - 09 (Central Anime) [BD841253]",
+    "kElementReleaseGroup" : "Central Anime"
+  }
+}, {
+  "file_name" : "[HorribleSubs] HEROMAN - 10_(XviD_AnimeSenshi).mkv",
+  "id" : 4334,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "HEROMAN",
+    "kElementEpisodeNumber" : "10",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[HorribleSubs] HEROMAN - 10_(XviD_AnimeSenshi)",
+    "kElementReleaseGroup" : "HorribleSubs",
+    "kElementVideoTerm" : "XviD"
+  }
+}, {
+  "file_name" : "Detective Conan - 316-317 [DCTP][2411959B].mkv",
+  "id" : 235,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Detective Conan",
+    "kElementEpisodeNumber" : [ "316", "317" ],
+    "kElementFileChecksum" : "2411959B",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Detective Conan - 316-317 [DCTP][2411959B]",
+    "kElementReleaseGroup" : "DCTP"
+  }
+}, {
+  "file_name" : "[N LogN Fansubs] Angel Beats (9).mkv",
+  "id" : 6547,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Angel Beats",
+    "kElementEpisodeNumber" : "9",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[N LogN Fansubs] Angel Beats (9)",
+    "kElementReleaseGroup" : "N LogN Fansubs"
+  }
+}, {
+  "file_name" : "To_Aru_Kagaku_no_Railgun_13-15_[BD_1080p][AtsA]",
+  "id" : 6213,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "To Aru Kagaku no Railgun",
+    "kElementEpisodeNumber" : [ "13", "15" ],
+    "kElementFileName" : "To_Aru_Kagaku_no_Railgun_13-15_[BD_1080p][AtsA]",
+    "kElementReleaseGroup" : "AtsA",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1080p"
+  }
+}, {
+  "file_name" : "Juuousei_-_01_[Black_Sheep][HDTV_H264_AAC][803DA487].mkv",
+  "id" : 953,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Juuousei",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "803DA487",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Juuousei_-_01_[Black_Sheep][HDTV_H264_AAC][803DA487]",
+    "kElementReleaseGroup" : "Black_Sheep",
+    "kElementSource" : "HDTV",
+    "kElementVideoTerm" : "H264"
+  }
+}, {
+  "file_name" : "[RNA]_Sakura_Taisen_New_York_NY_Ep_2_[1590D378].avi",
+  "id" : 2168,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Sakura Taisen New York NY",
+    "kElementEpisodeNumber" : "2",
+    "kElementFileChecksum" : "1590D378",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "[RNA]_Sakura_Taisen_New_York_NY_Ep_2_[1590D378]",
+    "kElementReleaseGroup" : "RNA"
+  }
+}, {
+  "file_name" : "Hayate no Gotoku 2nd Season 24 (Blu-Ray 1080p) [Chihiro]",
+  "id" : 4192,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeSeason" : "2",
+    "kElementAnimeTitle" : "Hayate no Gotoku",
+    "kElementEpisodeNumber" : "24",
+    "kElementFileName" : "Hayate no Gotoku 2nd Season 24 (Blu-Ray 1080p) [Chihiro]",
+    "kElementReleaseGroup" : "Chihiro",
+    "kElementSource" : "Blu-Ray",
+    "kElementVideoResolution" : "1080p"
+  }
+}, {
+  "file_name" : "[BluDragon] Blue Submarine No.6 (DVD, R2, Dual Audio) V3",
+  "id" : 1051,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Blue Submarine No.6",
+    "kElementAudioTerm" : "Dual Audio",
+    "kElementFileName" : "[BluDragon] Blue Submarine No.6 (DVD, R2, Dual Audio) V3",
+    "kElementReleaseGroup" : "BluDragon",
+    "kElementReleaseVersion" : "3",
+    "kElementSource" : "DVD"
+  }
+}, {
+  "file_name" : "Chrono Crusade ep. 1-5",
+  "id" : 60,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Chrono Crusade",
+    "kElementEpisodeNumber" : [ "1", "5" ],
+    "kElementFileName" : "Chrono Crusade ep. 1-5"
+  }
+}, {
+  "file_name" : "[gg]_Kimi_ni_Todoke_2nd_Season_-_00_[BF735BC4].mkv",
+  "id" : 9656,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeSeason" : "2",
+    "kElementAnimeTitle" : "Kimi ni Todoke",
+    "kElementEpisodeNumber" : "00",
+    "kElementFileChecksum" : "BF735BC4",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[gg]_Kimi_ni_Todoke_2nd_Season_-_00_[BF735BC4]",
+    "kElementReleaseGroup" : "gg"
+  }
+}, {
+  "file_name" : "K-ON!_Ep03_Training!_[1080p,BluRay,x264]_-_THORA.mkv",
+  "id" : 5680,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "K-ON!",
+    "kElementEpisodeNumber" : "03",
+    "kElementEpisodeTitle" : "Training!",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "K-ON!_Ep03_Training!_[1080p,BluRay,x264]_-_THORA",
+    "kElementReleaseGroup" : "THORA",
+    "kElementSource" : "BluRay",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "K-ON!!_Ep08_Career_Plan!_[1080p,BluRay,x264]_-_THORA.mkv",
+  "id" : 7791,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "K-ON!!",
+    "kElementEpisodeNumber" : "08",
+    "kElementEpisodeTitle" : "Career Plan!",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "K-ON!!_Ep08_Career_Plan!_[1080p,BluRay,x264]_-_THORA",
+    "kElementReleaseGroup" : "THORA",
+    "kElementSource" : "BluRay",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[SFW]_Queen's_Blade_S2",
+  "id" : 6633,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Queen's Blade S2",
+    "kElementFileName" : "[SFW]_Queen's_Blade_S2",
+    "kElementReleaseGroup" : "SFW"
+  }
+}, {
+  "file_name" : "Evangelion_1.0_You_Are_[Not]_Alone_(1080p)_[@Home]",
+  "id" : 2759,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Evangelion 1.0 You Are [Not] Alone",
+    "kElementFileName" : "Evangelion_1.0_You_Are_[Not]_Alone_(1080p)_[@Home]",
+    "kElementReleaseGroup" : "@Home",
+    "kElementVideoResolution" : "1080p"
+  }
+}, {
+  "file_name" : "[Ayako]_Infinite_Stratos_-_IS_-_01v2_[XVID][400p][29675B71].avi",
+  "id" : 9041,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Infinite Stratos - IS",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "29675B71",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "[Ayako]_Infinite_Stratos_-_IS_-_01v2_[XVID][400p][29675B71]",
+    "kElementReleaseGroup" : "Ayako",
+    "kElementReleaseVersion" : "2",
+    "kElementVideoResolution" : "400p",
+    "kElementVideoTerm" : "XVID"
+  }
+}, {
+  "file_name" : "[E-HARO Raws] Kore wa Zombie desu ka - 03 (TV 1280x720 h264 AAC) [888E4991].mkv",
+  "id" : 8841,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Kore wa Zombie desu ka",
+    "kElementAnimeType" : "TV",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "03",
+    "kElementFileChecksum" : "888E4991",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[E-HARO Raws] Kore wa Zombie desu ka - 03 (TV 1280x720 h264 AAC) [888E4991]",
+    "kElementReleaseGroup" : "E-HARO Raws",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[Edomae Subs] Kore wa Zombie desu ka  Episode 2.mkv",
+  "id" : 8841,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Kore wa Zombie desu ka",
+    "kElementEpisodeNumber" : "2",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Edomae Subs] Kore wa Zombie desu ka  Episode 2",
+    "kElementReleaseGroup" : "Edomae Subs"
+  }
+}, {
+  "file_name" : "Juuni.Kokki.Ep.5.avi",
+  "id" : 153,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Juuni Kokki",
+    "kElementEpisodeNumber" : "5",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "Juuni.Kokki.Ep.5"
+  }
+}, {
+  "file_name" : "Juuni Kokki Ep.5.avi",
+  "id" : 153,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Juuni Kokki",
+    "kElementEpisodeNumber" : "5",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "Juuni Kokki Ep.5"
+  }
+}, {
+  "file_name" : "[Keroro].148.[Xvid.mp3].[FE68D5F1].avi",
+  "id" : 516,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "148",
+    "kElementAudioTerm" : "mp3",
+    "kElementFileChecksum" : "FE68D5F1",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "[Keroro].148.[Xvid.mp3].[FE68D5F1]",
+    "kElementReleaseGroup" : "Keroro",
+    "kElementVideoTerm" : "Xvid"
+  }
+}, {
+  "file_name" : "5_centimeters_per_second[1904x1072.h264.flac][niizk].mkv",
+  "id" : 1689,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "5 centimeters per second",
+    "kElementAudioTerm" : "flac",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "5_centimeters_per_second[1904x1072.h264.flac][niizk]",
+    "kElementReleaseGroup" : "niizk",
+    "kElementVideoResolution" : "1904x1072",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[Yoroshiku]_009-1_-_02_(H264)_[36D2444D].mkv",
+  "id" : 1583,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "009-1",
+    "kElementEpisodeNumber" : "02",
+    "kElementFileChecksum" : "36D2444D",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Yoroshiku]_009-1_-_02_(H264)_[36D2444D]",
+    "kElementReleaseGroup" : "Yoroshiku",
+    "kElementVideoTerm" : "H264"
+  }
+}, {
+  "file_name" : "After War Gundam X - 1x03 - My Mount is Fierce!.mkv",
+  "id" : 92,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeSeason" : "1",
+    "kElementAnimeTitle" : "After War Gundam X",
+    "kElementEpisodeNumber" : "03",
+    "kElementEpisodeTitle" : "My Mount is Fierce!",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "After War Gundam X - 1x03 - My Mount is Fierce!"
+  }
+}, {
+  "file_name" : "[HorribleSubs] The World God Only Knows 2 - 03 [720p].mkv",
+  "id" : 10080,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "The World God Only Knows 2",
+    "kElementEpisodeNumber" : "03",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[HorribleSubs] The World God Only Knows 2 - 03 [720p]",
+    "kElementReleaseGroup" : "HorribleSubs",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "Macross Frontier - Sayonara no Tsubasa (Central Anime, 720p) [46B35E25].mkv",
+  "id" : 7222,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Macross Frontier - Sayonara no Tsubasa",
+    "kElementFileChecksum" : "46B35E25",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Macross Frontier - Sayonara no Tsubasa (Central Anime, 720p) [46B35E25]",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[Nubles] Space Battleship Yamato 2199 (2012) episode 18 (720p 8 bit AAC)[BA70BA9C]",
+  "id" : 12029,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Space Battleship Yamato 2199",
+    "kElementAnimeYear" : "2012",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "18",
+    "kElementFileChecksum" : "BA70BA9C",
+    "kElementFileName" : "[Nubles] Space Battleship Yamato 2199 (2012) episode 18 (720p 8 bit AAC)[BA70BA9C]",
+    "kElementReleaseGroup" : "Nubles",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[Nubles] Space Battleship Yamato 2199 (2012) episode 18 (720p 10 bit AAC)[1F56D642]",
+  "id" : 12029,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Space Battleship Yamato 2199",
+    "kElementAnimeYear" : "2012",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "18",
+    "kElementFileChecksum" : "1F56D642",
+    "kElementFileName" : "[Nubles] Space Battleship Yamato 2199 (2012) episode 18 (720p 10 bit AAC)[1F56D642]",
+    "kElementReleaseGroup" : "Nubles",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[FFF] Red Data Girl - 10v0 [29EA865B].mkv",
+  "id" : 14921,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Red Data Girl",
+    "kElementEpisodeNumber" : "10",
+    "kElementFileChecksum" : "29EA865B",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[FFF] Red Data Girl - 10v0 [29EA865B]",
+    "kElementReleaseGroup" : "FFF",
+    "kElementReleaseVersion" : "0"
+  }
+}, {
+  "file_name" : "[CMS] Magical☆Star Kanon 100% OVA[DVD][E9F43685].mkv",
+  "id" : 17725,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Magical☆Star Kanon 100% OVA",
+    "kElementAnimeType" : "OVA",
+    "kElementFileChecksum" : "E9F43685",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[CMS] Magical☆Star Kanon 100% OVA[DVD][E9F43685]",
+    "kElementReleaseGroup" : "CMS",
+    "kElementSource" : "DVD"
+  }
+}, {
+  "file_name" : "[Doremi].Ro-Kyu-Bu!.SS.01.[C1B5CE5D].mkv",
+  "id" : 16051,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Ro-Kyu-Bu! SS",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "C1B5CE5D",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Doremi].Ro-Kyu-Bu!.SS.01.[C1B5CE5D]",
+    "kElementReleaseGroup" : "Doremi"
+  }
+}, {
+  "file_name" : "[Raizel] Persona 4 The Animation Episode 13 - A Stormy Summer Vacation Part 1  [BD_1080p_Dual_Audio_FLAC_Hi10p][8A45634B].mkv",
+  "id" : 10588,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Persona 4 The Animation",
+    "kElementAudioTerm" : "FLAC",
+    "kElementEpisodeNumber" : "13",
+    "kElementEpisodeTitle" : "A Stormy Summer Vacation Part 1",
+    "kElementFileChecksum" : "8A45634B",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Raizel] Persona 4 The Animation Episode 13 - A Stormy Summer Vacation Part 1  [BD_1080p_Dual_Audio_FLAC_Hi10p][8A45634B]",
+    "kElementReleaseGroup" : "Raizel",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "Hi10p"
+  }
+}, {
+  "file_name" : "[Hien] Kotoura-san - Special Short Anime 'Haruka's Room' - 01 [BD 1080p H.264 10-bit AAC][6B6BE015].mkv",
+  "id" : 16636,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Kotoura-san - Special Short Anime 'Haruka's Room'",
+    "kElementAnimeType" : "Special",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "6B6BE015",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Hien] Kotoura-san - Special Short Anime 'Haruka's Room' - 01 [BD 1080p H.264 10-bit AAC][6B6BE015]",
+    "kElementReleaseGroup" : "Hien",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : [ "H.264", "10-bit" ]
+  }
+}, {
+  "file_name" : "[R-R] Diebuster.EP1 (720p.Hi10p.AC3) [82E36A36].mkv",
+  "id" : 1002,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Diebuster",
+    "kElementAudioTerm" : "AC3",
+    "kElementEpisodeNumber" : "1",
+    "kElementFileChecksum" : "82E36A36",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[R-R] Diebuster.EP1 (720p.Hi10p.AC3) [82E36A36]",
+    "kElementReleaseGroup" : "R-R",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "Hi10p"
+  }
+}, {
+  "file_name" : "Aim_For_The_Top!_Gunbuster-ep1.BD(H264.FLAC.10bit)[KAA][69ECCDCF].mkv",
+  "id" : 949,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Aim For The Top! Gunbuster-ep1",
+    "kElementAudioTerm" : "FLAC",
+    "kElementFileChecksum" : "69ECCDCF",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Aim_For_The_Top!_Gunbuster-ep1.BD(H264.FLAC.10bit)[KAA][69ECCDCF]",
+    "kElementReleaseGroup" : "KAA",
+    "kElementSource" : "BD",
+    "kElementVideoTerm" : [ "H264", "10bit" ]
+  }
+}, {
+  "file_name" : "[Rakuda].Gift.~eternal.rainbow~.01.dvd.h.264.vorbis.mkv",
+  "id" : 1581,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Gift ~eternal rainbow~",
+    "kElementAudioTerm" : "vorbis",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Rakuda].Gift.~eternal.rainbow~.01.dvd.h.264.vorbis",
+    "kElementReleaseGroup" : "Rakuda",
+    "kElementSource" : "dvd",
+    "kElementVideoTerm" : "h.264"
+  }
+}, {
+  "file_name" : "[Jumonji-Giri]_[Shinsen-Subs][ASF]_D.C.II_Da_Capo_II_Ep01_(a1fc58a7).mkv",
+  "id" : 2595,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "D.C.II Da Capo II",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "a1fc58a7",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Jumonji-Giri]_[Shinsen-Subs][ASF]_D.C.II_Da_Capo_II_Ep01_(a1fc58a7)",
+    "kElementReleaseGroup" : "Jumonji-Giri"
+  }
+}, {
+  "file_name" : "[Mobile Suit Gundam Seed Destiny HD REMASTER][07][Big5][720p][AVC_AAC][encoded by SEED].mp4",
+  "id" : 94,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "encoded by SEED",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "07",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[Mobile Suit Gundam Seed Destiny HD REMASTER][07][Big5][720p][AVC_AAC][encoded by SEED]",
+    "kElementOther" : "REMASTER",
+    "kElementSubtitles" : "Big5",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : [ "HD", "AVC" ]
+  }
+}, {
+  "file_name" : "「K」 Image Blu-ray WHITE & BLACK - Main (BD 1280x720 AVC AAC).mp4",
+  "id" : 14467,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Image",
+    "kElementAudioTerm" : "AAC",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "「K」 Image Blu-ray WHITE & BLACK - Main (BD 1280x720 AVC AAC)",
+    "kElementReleaseGroup" : "K",
+    "kElementSource" : [ "Blu-ray", "BD" ],
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "AVC"
+  }
+}, {
+  "file_name" : "[[Zero-Raws] Shingeki no Kyojin - 05 (MBS 1280x720 x264 AAC).mp4",
+  "id" : 16498,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Shingeki no Kyojin",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "05",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[[Zero-Raws] Shingeki no Kyojin - 05 (MBS 1280x720 x264 AAC)",
+    "kElementReleaseGroup" : "[Zero-Raws",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[52wy][SlamDunk][001][Jpn_Chs_Cht][x264_aac][DVDRip][7FE2C873].mkv",
+  "id" : 170,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "SlamDunk",
+    "kElementAudioTerm" : "aac",
+    "kElementEpisodeNumber" : "001",
+    "kElementFileChecksum" : "7FE2C873",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[52wy][SlamDunk][001][Jpn_Chs_Cht][x264_aac][DVDRip][7FE2C873]",
+    "kElementReleaseGroup" : "52wy",
+    "kElementSource" : "DVDRip",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[Commie] Last Exile ~Fam, The Silver Wing~ - 13 [AFF9E530].mkv",
+  "id" : 10336,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Last Exile ~Fam, The Silver Wing~",
+    "kElementEpisodeNumber" : "13",
+    "kElementFileChecksum" : "AFF9E530",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Commie] Last Exile ~Fam, The Silver Wing~ - 13 [AFF9E530]",
+    "kElementReleaseGroup" : "Commie"
+  }
+}, {
+  "file_name" : "[Hakugetsu&Speed&MGRT][Dragon_Ball_Z_Battle_of_Gods][BDRIP][BIG5][1280x720].mp4",
+  "id" : 14837,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Dragon Ball Z Battle of Gods",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[Hakugetsu&Speed&MGRT][Dragon_Ball_Z_Battle_of_Gods][BDRIP][BIG5][1280x720]",
+    "kElementReleaseGroup" : "Hakugetsu&Speed&MGRT",
+    "kElementSource" : "BDRIP",
+    "kElementSubtitles" : "BIG5",
+    "kElementVideoResolution" : "1280x720"
+  }
+}, {
+  "file_name" : "[Hakugetsu&MGRT][Evangelion 3.0 You Can (Not) Redo][480P][V0].mp4",
+  "id" : 3785,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Evangelion 3.0 You Can (Not) Redo",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[Hakugetsu&MGRT][Evangelion 3.0 You Can (Not) Redo][480P][V0]",
+    "kElementReleaseGroup" : "Hakugetsu&MGRT",
+    "kElementReleaseVersion" : "0",
+    "kElementVideoResolution" : "480P"
+  }
+}, {
+  "file_name" : "[TV-J] Kidou Senshi Gundam UC Unicorn - episode.02 [BD 1920x1080 h264+AAC(5.1ch JP+EN) +Sub(JP-EN-SP-FR-CH) Chap].mp4",
+  "id" : 6336,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Kidou Senshi Gundam UC Unicorn",
+    "kElementEpisodeNumber" : "02",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[TV-J] Kidou Senshi Gundam UC Unicorn - episode.02 [BD 1920x1080 h264+AAC(5.1ch JP+EN) +Sub(JP-EN-SP-FR-CH) Chap]",
+    "kElementReleaseGroup" : "TV-J",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1920x1080",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[UTW]_Fate_Zero_-_01_[BD][h264-720p_AC3][02A0491D].mkv",
+  "id" : 10087,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Fate Zero",
+    "kElementAudioTerm" : "AC3",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "02A0491D",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[UTW]_Fate_Zero_-_01_[BD][h264-720p_AC3][02A0491D]",
+    "kElementReleaseGroup" : "UTW",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[UTW-THORA] Evangelion 3.33 You Can (Not) Redo [BD][1080p,x264,flac][F2060CF5].mkv",
+  "id" : 3785,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Evangelion 3.33 You Can (Not) Redo",
+    "kElementAudioTerm" : "flac",
+    "kElementFileChecksum" : "F2060CF5",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[UTW-THORA] Evangelion 3.33 You Can (Not) Redo [BD][1080p,x264,flac][F2060CF5]",
+    "kElementReleaseGroup" : "UTW-THORA",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[Zero-Raws] Shingeki no Kyojin - 25 END (MBS 1280x720 x264 AAC).mp4",
+  "id" : 16498,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Shingeki no Kyojin",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "25",
+    "kElementEpisodeTitle" : "END",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[Zero-Raws] Shingeki no Kyojin - 25 END (MBS 1280x720 x264 AAC)",
+    "kElementReleaseGroup" : "Zero-Raws",
+    "kElementReleaseInformation" : "END",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "Bakemonogatari - 01 (BD 1280x720 AVC AACx2).mp4",
+  "id" : 5081,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Bakemonogatari",
+    "kElementAudioTerm" : "AACx2",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "Bakemonogatari - 01 (BD 1280x720 AVC AACx2)",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "AVC"
+  }
+}, {
+  "file_name" : "Evangelion Shin Gekijouban Q (BDrip 1920x1080 x264 FLACx2 5.1ch)-ank.mkv",
+  "id" : 3785,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Evangelion Shin Gekijouban Q",
+    "kElementAnimeType" : "Gekijouban",
+    "kElementAudioTerm" : [ "FLACx2", "5.1ch" ],
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Evangelion Shin Gekijouban Q (BDrip 1920x1080 x264 FLACx2 5.1ch)-ank",
+    "kElementSource" : "BDrip",
+    "kElementVideoResolution" : "1920x1080",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "Evangelion The New Movie Q (BD 1280x720 AVC AACx2 [5.1+2.0]).mp4",
+  "id" : 3785,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Evangelion The New Movie Q",
+    "kElementAnimeType" : "Movie",
+    "kElementAudioTerm" : "AACx2",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "Evangelion The New Movie Q (BD 1280x720 AVC AACx2 [5.1+2.0])",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "AVC"
+  }
+}, {
+  "file_name" : "Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2.mkv",
+  "id" : 431,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Howl's Moving Castle",
+    "kElementAnimeYear" : "2004",
+    "kElementAudioTerm" : [ "flac", "dts" ],
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2",
+    "kElementReleaseGroup" : "THORA",
+    "kElementReleaseVersion" : "2",
+    "kElementSource" : "BluRay",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "Kotonoha no Niwa (BD 1280x720 AVC AACx3 [5.1+2.0+2.0] Subx3).mp4",
+  "id" : 16782,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Kotonoha no Niwa",
+    "kElementAudioTerm" : "AACx3",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "Kotonoha no Niwa (BD 1280x720 AVC AACx3 [5.1+2.0+2.0] Subx3)",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "AVC"
+  }
+}, {
+  "file_name" : "Queen's Blade Utsukushiki Toushi-tachi - OVA_01 (BD 1280x720 AVC AAC).mp4",
+  "id" : 8456,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Queen's Blade Utsukushiki Toushi-tachi - OVA",
+    "kElementAnimeType" : "OVA",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "Queen's Blade Utsukushiki Toushi-tachi - OVA_01 (BD 1280x720 AVC AAC)",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "AVC"
+  }
+}, {
+  "file_name" : "【MMZYSUB】★【Golden Time】[24（END）][GB][720P_MP4]",
+  "id" : 17895,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "★",
+    "kElementFileName" : "【MMZYSUB】★【Golden Time】[24（END）][GB][720P_MP4]",
+    "kElementReleaseGroup" : "MMZYSUB",
+    "kElementVideoResolution" : "720P"
+  }
+}, {
+  "file_name" : "[FFF] Futsuu no Joshikousei ga [Locodol] Yatte Mita. - 01 [BAD09C76].mkv",
+  "id" : 22189,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Futsuu no Joshikousei ga [Locodol] Yatte Mita.",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "BAD09C76",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[FFF] Futsuu no Joshikousei ga [Locodol] Yatte Mita. - 01 [BAD09C76]",
+    "kElementReleaseGroup" : "FFF"
+  }
+}, {
+  "file_name" : "[異域字幕組][漆黑的子彈][Black Bullet][11][1280x720][繁体].mp4",
+  "id" : 20787,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Black Bullet",
+    "kElementEpisodeNumber" : "11",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[異域字幕組][漆黑的子彈][Black Bullet][11][1280x720][繁体]",
+    "kElementReleaseGroup" : "異域字幕組",
+    "kElementVideoResolution" : "1280x720"
+  }
+}, {
+  "file_name" : "[AoJiaoZero][Mangaka-san to Assistant-san to the Animation] 02 [BIG][X264_AAC][720P].mp4",
+  "id" : 21863,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "02",
+    "kElementAudioTerm" : "AAC",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[AoJiaoZero][Mangaka-san to Assistant-san to the Animation] 02 [BIG][X264_AAC][720P]",
+    "kElementReleaseGroup" : "AoJiaoZero",
+    "kElementVideoResolution" : "720P",
+    "kElementVideoTerm" : "X264"
+  }
+}, {
+  "file_name" : "Vol.01",
+  "id" : -1,
+  "ignore" : false,
+  "results" : {
+    "kElementFileName" : "Vol.01",
+    "kElementVolumeNumber" : "01"
+  }
+}, {
+  "file_name" : "[Asenshi] Rozen Maiden 3 - PV [CA57F300].mkv",
+  "id" : 18041,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Rozen Maiden",
+    "kElementAnimeType" : "PV",
+    "kElementEpisodeNumber" : "3",
+    "kElementFileChecksum" : "CA57F300",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Asenshi] Rozen Maiden 3 - PV [CA57F300]",
+    "kElementReleaseGroup" : "Asenshi"
+  }
+}, {
+  "file_name" : "Mary Bell (DVD) - 01v2 [h-b].mkv",
+  "id" : 2804,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Mary Bell",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Mary Bell (DVD) - 01v2 [h-b]",
+    "kElementReleaseGroup" : "h-b",
+    "kElementReleaseVersion" : "2",
+    "kElementSource" : "DVD"
+  }
+}, {
+  "file_name" : "Mary Bell (DVD) - 02 [h-b].mkv",
+  "id" : 2804,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Mary Bell",
+    "kElementEpisodeNumber" : "02",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Mary Bell (DVD) - 02 [h-b]",
+    "kElementReleaseGroup" : "h-b",
+    "kElementSource" : "DVD"
+  }
+}, {
+  "file_name" : "Attack on Titan - Episode 3 - A Dim Light Amid Despair / Humanity's Comeback, Part 1",
+  "id" : 16498,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Attack on Titan",
+    "kElementEpisodeNumber" : "3",
+    "kElementEpisodeTitle" : "A Dim Light Amid Despair / Humanity's Comeback, Part 1",
+    "kElementFileName" : "Attack on Titan - Episode 3 - A Dim Light Amid Despair / Humanity's Comeback, Part 1"
+  }
+}, {
+  "file_name" : "The Irregular at Magic High School - S01E01- Enrollment Part I.mkv",
+  "id" : 20785,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeSeason" : "01",
+    "kElementAnimeTitle" : "The Irregular at Magic High School",
+    "kElementEpisodeNumber" : "01",
+    "kElementEpisodeTitle" : "Enrollment Part I",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "The Irregular at Magic High School - S01E01- Enrollment Part I"
+  }
+}, {
+  "file_name" : "[Mezashite] Aikatsu! ‒ 100 [D035A39F].mkv",
+  "id" : 15061,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Aikatsu!",
+    "kElementEpisodeNumber" : "100",
+    "kElementFileChecksum" : "D035A39F",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Mezashite] Aikatsu! ‒ 100 [D035A39F]",
+    "kElementReleaseGroup" : "Mezashite"
+  }
+}, {
+  "file_name" : "DRAMAtical Murder Episode 1 - Data_01_Login",
+  "id" : 23333,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "DRAMAtical Murder",
+    "kElementEpisodeNumber" : "1",
+    "kElementEpisodeTitle" : "Data 01 Login",
+    "kElementFileName" : "DRAMAtical Murder Episode 1 - Data_01_Login"
+  }
+}, {
+  "file_name" : "[Triad]_Today_in_Class_5-2_-_04.avi",
+  "id" : 837,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Today in Class 5-2",
+    "kElementEpisodeNumber" : "04",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "[Triad]_Today_in_Class_5-2_-_04",
+    "kElementReleaseGroup" : "Triad"
+  }
+}, {
+  "file_name" : "__BLUE DROP 10 (1).avi",
+  "id" : 2964,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "BLUE DROP",
+    "kElementEpisodeNumber" : "1",
+    "kElementEpisodeNumberAlt" : "10",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "__BLUE DROP 10 (1)"
+  }
+}, {
+  "file_name" : "37 [Ruberia]_Death_Note_-_37v2_[FINAL]_[XviD][6FA7D273].avi",
+  "id" : 1535,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "37 [Ruberia] Death Note",
+    "kElementEpisodeNumber" : "37",
+    "kElementFileChecksum" : "6FA7D273",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "37 [Ruberia]_Death_Note_-_37v2_[FINAL]_[XviD][6FA7D273]",
+    "kElementReleaseGroup" : "FINAL",
+    "kElementReleaseInformation" : "FINAL",
+    "kElementReleaseVersion" : "2",
+    "kElementVideoTerm" : "XviD"
+  }
+}, {
+  "file_name" : "[UTW]_Accel_World_-_EX01_[BD][h264-720p_AAC][3E56EE18].mkv",
+  "id" : 13939,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Accel World - EX01",
+    "kElementAudioTerm" : "AAC",
+    "kElementFileChecksum" : "3E56EE18",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[UTW]_Accel_World_-_EX01_[BD][h264-720p_AAC][3E56EE18]",
+    "kElementReleaseGroup" : "UTW",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[HorribleSubs] Tsukimonogatari - (01-04) [1080p].mkv",
+  "id" : 28025,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Tsukimonogatari",
+    "kElementEpisodeNumber" : [ "01", "04" ],
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[HorribleSubs] Tsukimonogatari - (01-04) [1080p]",
+    "kElementReleaseGroup" : "HorribleSubs",
+    "kElementVideoResolution" : "1080p"
+  }
+}, {
+  "file_name" : "[Urusai]_Bokura_Ga_Ita_01_[DVD_h264_AC3]_[BFCE1627][Fixed].mkv",
+  "id" : 1222,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Bokura Ga Ita",
+    "kElementAudioTerm" : "AC3",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "BFCE1627",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Urusai]_Bokura_Ga_Ita_01_[DVD_h264_AC3]_[BFCE1627][Fixed]",
+    "kElementLanguage" : "Ita",
+    "kElementReleaseGroup" : "Urusai",
+    "kElementSource" : "DVD",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[Coalgirls]_White_Album_1-13_(1280×720_Blu-Ray_FLAC)",
+  "id" : 4720,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "White Album",
+    "kElementAudioTerm" : "FLAC",
+    "kElementEpisodeNumber" : [ "1", "13" ],
+    "kElementFileName" : "[Coalgirls]_White_Album_1-13_(1280×720_Blu-Ray_FLAC)",
+    "kElementReleaseGroup" : "Coalgirls",
+    "kElementSource" : "Blu-Ray",
+    "kElementVideoResolution" : "1280×720"
+  }
+}, {
+  "file_name" : "[Coalgirls]_Bakemonogatari_OP4a_(1280x720_Blu-Ray_FLAC)_[327A2375].mkv",
+  "id" : 5081,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Bakemonogatari OP",
+    "kElementAnimeType" : "OP",
+    "kElementAudioTerm" : "FLAC",
+    "kElementEpisodeNumber" : "4a",
+    "kElementFileChecksum" : "327A2375",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Coalgirls]_Bakemonogatari_OP4a_(1280x720_Blu-Ray_FLAC)_[327A2375]",
+    "kElementReleaseGroup" : "Coalgirls",
+    "kElementSource" : "Blu-Ray",
+    "kElementVideoResolution" : "1280x720"
+  }
+}, {
+  "file_name" : "[Ruri]No.6 01 [720p][H264][A956075C].mkv",
+  "id" : 10161,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "No.6",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "A956075C",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Ruri]No.6 01 [720p][H264][A956075C]",
+    "kElementReleaseGroup" : "Ruri",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "H264"
+  }
+}, {
+  "file_name" : "[CH] Sword Art Online Extra Edition Dual Audio [BD 480p][10bitH.264+Vorbis]",
+  "id" : 20021,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Sword Art Online Extra Edition",
+    "kElementAudioTerm" : [ "Dual Audio", "Vorbis" ],
+    "kElementFileName" : "[CH] Sword Art Online Extra Edition Dual Audio [BD 480p][10bitH.264+Vorbis]",
+    "kElementReleaseGroup" : "CH",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "480p",
+    "kElementVideoTerm" : [ "H.264", "10bit" ]
+  }
+}, {
+  "file_name" : "EvoBot.[Watakushi]_Akuma_no_Riddle_-_01v2_[720p][69A307A2].mkv",
+  "id" : 19429,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "EvoBot [Watakushi] Akuma no Riddle",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "69A307A2",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "EvoBot.[Watakushi]_Akuma_no_Riddle_-_01v2_[720p][69A307A2]",
+    "kElementReleaseVersion" : "2",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "01 - Land of Visible Pain.mkv",
+  "id" : -1,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "01 - Land of Visible Pain",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "01 - Land of Visible Pain"
+  }
+}, {
+  "file_name" : "Episode 14 Ore no Imouto ga Konnani Kawaii Wake ga Nai. (saison 2) VOSTFR",
+  "id" : 13659,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeSeason" : "2",
+    "kElementAnimeTitle" : "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+    "kElementEpisodeNumber" : "14",
+    "kElementFileName" : "Episode 14 Ore no Imouto ga Konnani Kawaii Wake ga Nai. (saison 2) VOSTFR",
+    "kElementLanguage" : "VOSTFR"
+  }
+}, {
+  "file_name" : "[Zom-B] Machine-Doll wa Kizutsukanai - 01 - Facing ''Cannibal Candy'' I (kuroi, FFF remux) [B99C8DED].mkv",
+  "id" : 17247,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Machine-Doll wa Kizutsukanai",
+    "kElementEpisodeNumber" : "01",
+    "kElementEpisodeTitle" : "Facing ''Cannibal Candy'' I",
+    "kElementFileChecksum" : "B99C8DED",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Zom-B] Machine-Doll wa Kizutsukanai - 01 - Facing ''Cannibal Candy'' I (kuroi, FFF remux) [B99C8DED]",
+    "kElementReleaseGroup" : "Zom-B",
+    "kElementReleaseInformation" : "remux"
+  }
+}, {
+  "file_name" : "The iDOLM@STER 765 Pro to Iu Monogatari.mkv",
+  "id" : 11889,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "The iDOLM@STER",
+    "kElementEpisodeNumber" : "765",
+    "kElementEpisodeTitle" : "Pro to Iu Monogatari",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "The iDOLM@STER 765 Pro to Iu Monogatari"
+  }
+}, {
+  "file_name" : "[Yuurisan-Subs]_Darker_than_Black_-_Gemini_of_the_Meteor_-_01v2_[65274FDE].patch.7z",
+  "id" : 6573,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Darker than Black - Gemini of the Meteor",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "65274FDE",
+    "kElementFileExtension" : "7z",
+    "kElementFileName" : "[Yuurisan-Subs]_Darker_than_Black_-_Gemini_of_the_Meteor_-_01v2_[65274FDE].patch",
+    "kElementReleaseGroup" : "Yuurisan-Subs",
+    "kElementReleaseInformation" : "patch",
+    "kElementReleaseVersion" : "2"
+  }
+}, {
+  "file_name" : "[Coalgirls]_Fate_Zero_OVA3.5_(1280x720_Blu-ray_FLAC)_[5F5AD026].mkv",
+  "id" : 10087,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Fate Zero OVA",
+    "kElementAnimeType" : "OVA",
+    "kElementAudioTerm" : "FLAC",
+    "kElementEpisodeNumber" : "3.5",
+    "kElementFileChecksum" : "5F5AD026",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Coalgirls]_Fate_Zero_OVA3.5_(1280x720_Blu-ray_FLAC)_[5F5AD026]",
+    "kElementReleaseGroup" : "Coalgirls",
+    "kElementSource" : "Blu-ray",
+    "kElementVideoResolution" : "1280x720"
+  }
+}, {
+  "file_name" : "[GrimRipper] Koi Kaze [Dual Audio] Ep01 (c13cefe0).mkv",
+  "id" : 634,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Koi Kaze",
+    "kElementAudioTerm" : "Dual Audio",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "c13cefe0",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[GrimRipper] Koi Kaze [Dual Audio] Ep01 (c13cefe0)",
+    "kElementReleaseGroup" : "GrimRipper"
+  }
+}, {
+  "file_name" : "[HorribleSubs] Gintama - 111C [1080p].mkv",
+  "id" : 918,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Gintama",
+    "kElementEpisodeNumber" : "111C",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[HorribleSubs] Gintama - 111C [1080p]",
+    "kElementReleaseGroup" : "HorribleSubs",
+    "kElementVideoResolution" : "1080p"
+  }
+}, {
+  "file_name" : "[SpoonSubs]_Hidamari_Sketch_x365_-_04.1_(DVD)[B6CE8458].mkv",
+  "id" : 3604,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Hidamari Sketch x365 - 04.1",
+    "kElementFileChecksum" : "B6CE8458",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[SpoonSubs]_Hidamari_Sketch_x365_-_04.1_(DVD)[B6CE8458]",
+    "kElementReleaseGroup" : "SpoonSubs",
+    "kElementSource" : "DVD"
+  }
+}, {
+  "file_name" : "Ep. 01 - The Boy in the Iceberg",
+  "id" : -1,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "The Boy in the Iceberg",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileName" : "Ep. 01 - The Boy in the Iceberg"
+  }
+}, {
+  "file_name" : "[Hatsuyuki]_Kuroko_no_Basuke_S3_-_01_(51)_[720p][10bit][619C57A0].mkv",
+  "id" : 24415,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Kuroko no Basuke S3",
+    "kElementEpisodeNumber" : "01",
+    "kElementEpisodeNumberAlt" : "51",
+    "kElementFileChecksum" : "619C57A0",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Hatsuyuki]_Kuroko_no_Basuke_S3_-_01_(51)_[720p][10bit][619C57A0]",
+    "kElementReleaseGroup" : "Hatsuyuki",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "10bit"
+  }
+}, {
+  "file_name" : "[Elysium]Sora.no.Woto.EP07.5(BD.720p.AAC)[C37580F8].mkv",
+  "id" : 6802,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Sora no Woto",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "07.5",
+    "kElementFileChecksum" : "C37580F8",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Elysium]Sora.no.Woto.EP07.5(BD.720p.AAC)[C37580F8]",
+    "kElementReleaseGroup" : "Elysium",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[Zurako] Sora no Woto - 07.5 - Drinking Party - Fortress Battle (BD 1080p AAC) [F7DF16F7].mkv",
+  "id" : 6802,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Sora no Woto",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "07.5",
+    "kElementEpisodeTitle" : "Drinking Party - Fortress Battle",
+    "kElementFileChecksum" : "F7DF16F7",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Zurako] Sora no Woto - 07.5 - Drinking Party - Fortress Battle (BD 1080p AAC) [F7DF16F7]",
+    "kElementReleaseGroup" : "Zurako",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1080p"
+  }
+}, {
+  "file_name" : "[Hiryuu] Maji de Watashi ni Koi Shinasai!! - 02 [720].mkv",
+  "id" : 10213,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Maji de Watashi ni Koi Shinasai!!",
+    "kElementEpisodeNumber" : "02",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Hiryuu] Maji de Watashi ni Koi Shinasai!! - 02 [720]",
+    "kElementReleaseGroup" : "Hiryuu",
+    "kElementVideoResolution" : "720"
+  }
+}, {
+  "file_name" : "[Kira-Fansub] Uchuu no Stellvia ep 14 (BD H264 1280x960 24fps AAC) [06EE7355].mkv",
+  "id" : 113,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Uchuu no Stellvia",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "14",
+    "kElementFileChecksum" : "06EE7355",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Kira-Fansub] Uchuu no Stellvia ep 14 (BD H264 1280x960 24fps AAC) [06EE7355]",
+    "kElementReleaseGroup" : "Kira-Fansub",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1280x960",
+    "kElementVideoTerm" : [ "H264", "24fps" ]
+  }
+}, {
+  "file_name" : "[ANE] Yosuga no Sora - Ep01 Preview (Yorihime ver) [BDRip 1080p x264 FLAC].mkv",
+  "id" : 8861,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Yosuga no Sora",
+    "kElementAnimeType" : "Preview",
+    "kElementAudioTerm" : "FLAC",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[ANE] Yosuga no Sora - Ep01 Preview (Yorihime ver) [BDRip 1080p x264 FLAC]",
+    "kElementReleaseGroup" : "ANE",
+    "kElementSource" : "BDRip",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[B-G_&_m.3.3.w]_Myself_Yourself_12.DVD(H.264_DD2.0)_[CB2B37F1].mkv",
+  "id" : 2926,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Myself Yourself",
+    "kElementEpisodeNumber" : "12",
+    "kElementFileChecksum" : "CB2B37F1",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[B-G_&_m.3.3.w]_Myself_Yourself_12.DVD(H.264_DD2.0)_[CB2B37F1]",
+    "kElementReleaseGroup" : "B-G_&_m.3.3.w",
+    "kElementSource" : "DVD",
+    "kElementVideoTerm" : "H.264"
+  }
+}, {
+  "file_name" : "The.Animatrix.08.A.Detective.Story.720p.BluRay.DTS.x264-ESiR.mkv",
+  "id" : 1303,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "The Animatrix 08.A Detective Story",
+    "kElementAudioTerm" : "DTS",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "The.Animatrix.08.A.Detective.Story.720p.BluRay.DTS.x264-ESiR",
+    "kElementSource" : "BluRay",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[DmonHiro] Oreshura #01v2 - The Start Of High School Life Is A War Zone [BD, 720p] [211375E6].mkv",
+  "id" : 14749,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Oreshura",
+    "kElementEpisodeNumber" : "01",
+    "kElementEpisodeTitle" : "The Start Of High School Life Is A War Zone",
+    "kElementFileChecksum" : "211375E6",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[DmonHiro] Oreshura #01v2 - The Start Of High School Life Is A War Zone [BD, 720p] [211375E6]",
+    "kElementReleaseGroup" : "DmonHiro",
+    "kElementReleaseVersion" : "2",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[모에-Raws] Abarenbou Rikishi!! Matsutarou #04 (ABC 1280x720 x264 AAC).mp4",
+  "id" : 22831,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Abarenbou Rikishi!! Matsutarou",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "04",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[모에-Raws] Abarenbou Rikishi!! Matsutarou #04 (ABC 1280x720 x264 AAC)",
+    "kElementReleaseGroup" : "모에-Raws",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[바카-Raws] Nekomonogatari (Black) #1-4 (BS11 1280x720 x264 AAC).mp4",
+  "id" : 15689,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Nekomonogatari (Black)",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : [ "1", "4" ],
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[바카-Raws] Nekomonogatari (Black) #1-4 (BS11 1280x720 x264 AAC)",
+    "kElementReleaseGroup" : "바카-Raws",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[NinjaPanda] Tiger & Bunny #01 All's well that ends well. (v3, 1080p Hi10P, DA AAC) [4A9AB85F].mkv",
+  "id" : 9941,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Tiger & Bunny",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "01",
+    "kElementEpisodeTitle" : "All's well that ends well.",
+    "kElementFileChecksum" : "4A9AB85F",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[NinjaPanda] Tiger & Bunny #01 All's well that ends well. (v3, 1080p Hi10P, DA AAC) [4A9AB85F]",
+    "kElementReleaseGroup" : "NinjaPanda",
+    "kElementReleaseVersion" : "3",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "Hi10P"
+  }
+}, {
+  "file_name" : "Neko no Ongaeshi - [HQR.remux-DualAudio][NTV.1280x692.h264](0CDC2145).mkv",
+  "id" : 597,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Neko no Ongaeshi",
+    "kElementFileChecksum" : "0CDC2145",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Neko no Ongaeshi - [HQR.remux-DualAudio][NTV.1280x692.h264](0CDC2145)",
+    "kElementReleaseGroup" : "HQR.remux-DualAudio",
+    "kElementVideoResolution" : "1280x692",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "[ReDone] Memories Off 3.5 - 04 (DVD 10-bit).mkv",
+  "id" : 363,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Memories Off",
+    "kElementEpisodeNumber" : "3.5",
+    "kElementEpisodeTitle" : "04",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[ReDone] Memories Off 3.5 - 04 (DVD 10-bit)",
+    "kElementReleaseGroup" : "ReDone",
+    "kElementSource" : "DVD",
+    "kElementVideoTerm" : "10-bit"
+  }
+}, {
+  "file_name" : "[FFF] Seirei Tsukai no Blade Dance - SP01 [BD][720p-AAC][F1FF8588].mkv",
+  "id" : 25285,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Seirei Tsukai no Blade Dance - SP",
+    "kElementAnimeType" : "SP",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "F1FF8588",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[FFF] Seirei Tsukai no Blade Dance - SP01 [BD][720p-AAC][F1FF8588]",
+    "kElementReleaseGroup" : "FFF",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "Byousoku 5 Centimeter [Blu-Ray][1920x1080 H.264][2.0ch AAC][SOFTSUBS]",
+  "id" : 1689,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Byousoku",
+    "kElementAudioTerm" : [ "2.0ch", "AAC" ],
+    "kElementEpisodeNumber" : "5",
+    "kElementEpisodeTitle" : "Centimeter",
+    "kElementFileName" : "Byousoku 5 Centimeter [Blu-Ray][1920x1080 H.264][2.0ch AAC][SOFTSUBS]",
+    "kElementSource" : "Blu-Ray",
+    "kElementSubtitles" : "SOFTSUBS",
+    "kElementVideoResolution" : "1920x1080",
+    "kElementVideoTerm" : "H.264"
+  }
+}, {
+  "file_name" : "[SubDESU-H] Swing out Sisters Complete Version (720p x264 8bit AC3) [3ABD57E6].mp4",
+  "id" : 12143,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Swing out Sisters",
+    "kElementAudioTerm" : "AC3",
+    "kElementFileChecksum" : "3ABD57E6",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[SubDESU-H] Swing out Sisters Complete Version (720p x264 8bit AC3) [3ABD57E6]",
+    "kElementReleaseGroup" : "SubDESU-H",
+    "kElementReleaseInformation" : "Complete",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : [ "x264", "8bit" ]
+  }
+}, {
+  "file_name" : "Cyborg 009 (1968) [TSHS] episode 06 [30C15D62].mp4",
+  "id" : 8394,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Cyborg 009",
+    "kElementAnimeYear" : "1968",
+    "kElementEpisodeNumber" : "06",
+    "kElementFileChecksum" : "30C15D62",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "Cyborg 009 (1968) [TSHS] episode 06 [30C15D62]",
+    "kElementReleaseGroup" : "TSHS"
+  }
+}, {
+  "file_name" : "[Hatsuyuki] Dragon Ball Kai (2014) - 002 (100) [1280x720][DD66AFB7].mkv",
+  "id" : 22777,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Dragon Ball Kai",
+    "kElementAnimeYear" : "2014",
+    "kElementEpisodeNumber" : "002",
+    "kElementEpisodeNumberAlt" : "100",
+    "kElementFileChecksum" : "DD66AFB7",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Hatsuyuki] Dragon Ball Kai (2014) - 002 (100) [1280x720][DD66AFB7]",
+    "kElementReleaseGroup" : "Hatsuyuki",
+    "kElementVideoResolution" : "1280x720"
+  }
+}, {
+  "file_name" : "[Deep] Tegami Bachi (REVERSE) - Letter Bee - 29 (04) [5203142B].mkv",
+  "id" : 8311,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Tegami Bachi (REVERSE) - Letter Bee",
+    "kElementEpisodeNumber" : "04",
+    "kElementEpisodeNumberAlt" : "29",
+    "kElementFileChecksum" : "5203142B",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Deep] Tegami Bachi (REVERSE) - Letter Bee - 29 (04) [5203142B]",
+    "kElementReleaseGroup" : "Deep"
+  }
+}, {
+  "file_name" : "[FFF] Love Live! The School Idol Movie - PV [D1A15D2C].mkv",
+  "id" : 24997,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Love Live! The School Idol Movie - PV",
+    "kElementAnimeType" : [ "Movie", "PV" ],
+    "kElementFileChecksum" : "D1A15D2C",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[FFF] Love Live! The School Idol Movie - PV [D1A15D2C]",
+    "kElementReleaseGroup" : "FFF"
+  }
+}, {
+  "file_name" : "[Nishi-Taku] Tamayura ~graduation photo~ Movie Part 1 [BD][720p][98965607].mkv",
+  "id" : 25729,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Tamayura ~graduation photo~ Movie Part 1",
+    "kElementAnimeType" : "Movie",
+    "kElementFileChecksum" : "98965607",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Nishi-Taku] Tamayura ~graduation photo~ Movie Part 1 [BD][720p][98965607]",
+    "kElementReleaseGroup" : "Nishi-Taku",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[LRL] 1001 Nights (1998) [DVD]",
+  "id" : 3914,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "1001 Nights",
+    "kElementAnimeYear" : "1998",
+    "kElementFileName" : "[LRL] 1001 Nights (1998) [DVD]",
+    "kElementReleaseGroup" : "LRL",
+    "kElementSource" : "DVD"
+  }
+}, {
+  "file_name" : "[TardRaws] 0 [640x360].mkv",
+  "id" : 20707,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "0",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[TardRaws] 0 [640x360]",
+    "kElementReleaseGroup" : "TardRaws",
+    "kElementVideoResolution" : "640x360"
+  }
+}, {
+  "file_name" : "[FB] Crayon Shin-Chan Movie 2 The Secret of Buri Buri Kingdom [DivX5 AC3] 1994 [852X480] V2.avi",
+  "id" : 3745,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Crayon Shin-Chan Movie 2 The Secret of Buri Buri Kingdom",
+    "kElementAnimeType" : "Movie",
+    "kElementAnimeYear" : "1994",
+    "kElementAudioTerm" : "AC3",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "[FB] Crayon Shin-Chan Movie 2 The Secret of Buri Buri Kingdom [DivX5 AC3] 1994 [852X480] V2",
+    "kElementReleaseGroup" : "FB",
+    "kElementReleaseVersion" : "2",
+    "kElementVideoResolution" : "852X480",
+    "kElementVideoTerm" : "DivX5"
+  }
+}, {
+  "file_name" : "[Hatsuyuki-Kaitou]_Fairy_Tail_2_-_52_(227)_[720p][10bit][9DF6B8D5].mkv",
+  "id" : 22043,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Fairy Tail 2",
+    "kElementEpisodeNumber" : "52",
+    "kElementEpisodeNumberAlt" : "227",
+    "kElementFileChecksum" : "9DF6B8D5",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[Hatsuyuki-Kaitou]_Fairy_Tail_2_-_52_(227)_[720p][10bit][9DF6B8D5]",
+    "kElementReleaseGroup" : "Hatsuyuki-Kaitou",
+    "kElementVideoResolution" : "720p",
+    "kElementVideoTerm" : "10bit"
+  }
+}, {
+  "file_name" : "[FBI] Baby Princess 3D Paradise Love 01v0 [BD][720p-AAC][457CC066].mkv",
+  "id" : 10196,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Baby Princess 3D Paradise Love",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileChecksum" : "457CC066",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[FBI] Baby Princess 3D Paradise Love 01v0 [BD][720p-AAC][457CC066]",
+    "kElementReleaseGroup" : "FBI",
+    "kElementReleaseVersion" : "0",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[Shinsen-Subs]_Macross_Frontier_-_01b_[4D5EC315].avi",
+  "id" : 3572,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Macross Frontier",
+    "kElementEpisodeNumber" : "01b",
+    "kElementFileChecksum" : "4D5EC315",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "[Shinsen-Subs]_Macross_Frontier_-_01b_[4D5EC315]",
+    "kElementReleaseGroup" : "Shinsen-Subs"
+  }
+}, {
+  "file_name" : "[NamaeNai] Hidamari Sketch x365 - 09a (DVD) [49874745].mkv",
+  "id" : 3604,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Hidamari Sketch x365",
+    "kElementEpisodeNumber" : "09a",
+    "kElementFileChecksum" : "49874745",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[NamaeNai] Hidamari Sketch x365 - 09a (DVD) [49874745]",
+    "kElementReleaseGroup" : "NamaeNai",
+    "kElementSource" : "DVD"
+  }
+}, {
+  "file_name" : "[KLF]_D.Gray-man_04V2.avi",
+  "id" : 1482,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "D.Gray-man",
+    "kElementEpisodeNumber" : "04",
+    "kElementFileExtension" : "avi",
+    "kElementFileName" : "[KLF]_D.Gray-man_04V2",
+    "kElementReleaseGroup" : "KLF",
+    "kElementReleaseVersion" : "2"
+  }
+}, {
+  "file_name" : "[FaggotryRaws] Bakuman - 01 (NHK E 848x480).mkv",
+  "id" : 7674,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Bakuman",
+    "kElementEpisodeNumber" : "01",
+    "kElementEpisodePrefix" : "E",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[FaggotryRaws] Bakuman - 01 (NHK E 848x480)",
+    "kElementReleaseGroup" : "FaggotryRaws",
+    "kElementVideoResolution" : "848x480"
+  }
+}, {
+  "file_name" : "[5F] RWBY 14 Forever Fall Part 2 pt-BR.mp4",
+  "id" : 0,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "RWBY",
+    "kElementEpisodeNumber" : "14",
+    "kElementEpisodeTitle" : "Forever Fall Part 2",
+    "kElementFileExtension" : "mp4",
+    "kElementFileName" : "[5F] RWBY 14 Forever Fall Part 2 pt-BR",
+    "kElementLanguage" : "pt-BR",
+    "kElementReleaseGroup" : "5F"
+  }
+}, {
+  "file_name" : "Dragon.Ball.KAI.-.01.-.1080p.BluRay.x264.DHD.mkv",
+  "id" : 6033,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Dragon Ball KAI",
+    "kElementEpisodeNumber" : "01",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "Dragon.Ball.KAI.-.01.-.1080p.BluRay.x264.DHD",
+    "kElementSource" : "BluRay",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "x264"
+  }
+}, {
+  "file_name" : "[AnimeRG] Ushio to Tora (TV) - 02 [720p] [Xcelent].mkv",
+  "id" : 29854,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Ushio to Tora (TV)",
+    "kElementAnimeType" : "TV",
+    "kElementEpisodeNumber" : "02",
+    "kElementFileExtension" : "mkv",
+    "kElementFileName" : "[AnimeRG] Ushio to Tora (TV) - 02 [720p] [Xcelent]",
+    "kElementReleaseGroup" : "AnimeRG",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[Anime",
+  "id" : -1,
+  "ignore" : false,
+  "results" : {
+    "kElementFileName" : "[Anime"
+  }
+}, {
+  "file_name" : "Gekkan Shoujo Nozaki-kun [HorribleSubs] (1080p)",
+  "id" : 23289,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Gekkan Shoujo Nozaki-kun",
+    "kElementFileName" : "Gekkan Shoujo Nozaki-kun [HorribleSubs] (1080p)",
+    "kElementReleaseGroup" : "HorribleSubs",
+    "kElementVideoResolution" : "1080p"
+  }
+}, {
+  "file_name" : "[BM&T] Toradora! - 07v2 - Pool Opening [720p Hi10 ] [BD] [8F59F2BA]",
+  "id" : 23289,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Toradora!",
+    "kElementEpisodeNumber" : "07",
+    "kElementEpisodeTitle" : "Pool Opening",
+    "kElementFileChecksum" : "8F59F2BA",
+    "kElementFileName" : "[BM&T] Toradora! - 07v2 - Pool Opening [720p Hi10 ] [BD] [8F59F2BA]",
+    "kElementReleaseGroup" : "BM&T",
+    "kElementReleaseVersion" : "2",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p"
+  }
+}, {
+  "file_name" : "[EveTaku] AKB0048 Vol.03 - Making of Kibou-ni-Tsuite Music Video (BDRip 1080i H.264-Hi10P FLAC)[C09462E2]",
+  "id" : 12149,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "AKB0048",
+    "kElementAudioTerm" : "FLAC",
+    "kElementFileChecksum" : "C09462E2",
+    "kElementFileName" : "[EveTaku] AKB0048 Vol.03 - Making of Kibou-ni-Tsuite Music Video (BDRip 1080i H.264-Hi10P FLAC)[C09462E2]",
+    "kElementReleaseGroup" : "EveTaku",
+    "kElementSource" : "BDRip",
+    "kElementVideoTerm" : [ "H.264", "Hi10P" ],
+    "kElementVolumeNumber" : "03"
+  }
+}, {
+  "file_name" : "[DmonHiro] Magi - The Labyrinth Of Magic - Vol.1v2 (BD, 720p)",
+  "id" : 14513,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Magi - The Labyrinth Of Magic",
+    "kElementFileName" : "[DmonHiro] Magi - The Labyrinth Of Magic - Vol.1v2 (BD, 720p)",
+    "kElementReleaseGroup" : "DmonHiro",
+    "kElementReleaseVersion" : "2",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p",
+    "kElementVolumeNumber" : "1"
+  }
+}, {
+  "file_name" : "[tlacatlc6] Natsume Yuujinchou Shi Vol. 1v2 & Vol. 2 (BD 1280x720 x264 AAC)",
+  "id" : 11665,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Natsume Yuujinchou Shi",
+    "kElementAudioTerm" : "AAC",
+    "kElementFileName" : "[tlacatlc6] Natsume Yuujinchou Shi Vol. 1v2 & Vol. 2 (BD 1280x720 x264 AAC)",
+    "kElementReleaseGroup" : "tlacatlc6",
+    "kElementReleaseVersion" : "2",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "x264",
+    "kElementVolumeNumber" : [ "1", "2" ]
+  }
+}, {
+  "file_name" : "[Tsundere] Hyouka - 01v2-04 [BDRip h264 1920x1080 10bit FLAC]",
+  "id" : 12189,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Hyouka",
+    "kElementAudioTerm" : "FLAC",
+    "kElementEpisodeNumber" : [ "01", "04" ],
+    "kElementFileName" : "[Tsundere] Hyouka - 01v2-04 [BDRip h264 1920x1080 10bit FLAC]",
+    "kElementReleaseGroup" : "Tsundere",
+    "kElementReleaseVersion" : "2",
+    "kElementSource" : "BDRip",
+    "kElementVideoResolution" : "1920x1080",
+    "kElementVideoTerm" : [ "h264", "10bit" ]
+  }
+}, {
+  "file_name" : "[Doki] Nogizaka Haruka no Himitsu - Purezza - 01v2-03v2 (1280x720 h264 AAC)",
+  "id" : 6023,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Nogizaka Haruka no Himitsu - Purezza",
+    "kElementAudioTerm" : "AAC",
+    "kElementEpisodeNumber" : [ "01", "03" ],
+    "kElementFileName" : "[Doki] Nogizaka Haruka no Himitsu - Purezza - 01v2-03v2 (1280x720 h264 AAC)",
+    "kElementReleaseGroup" : "Doki",
+    "kElementReleaseVersion" : [ "2", "2" ],
+    "kElementVideoResolution" : "1280x720",
+    "kElementVideoTerm" : "h264"
+  }
+}, {
+  "file_name" : "Fairy Tail - S06E32 - Tartaros Arc Iron Fist of the Fire Dragon [Episode 83]",
+  "id" : 6702,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeSeason" : "06",
+    "kElementAnimeTitle" : "Fairy Tail",
+    "kElementEpisodeNumber" : "32",
+    "kElementEpisodeNumberAlt" : "83",
+    "kElementEpisodeTitle" : "Tartaros Arc Iron Fist of the Fire Dragon",
+    "kElementFileName" : "Fairy Tail - S06E32 - Tartaros Arc Iron Fist of the Fire Dragon [Episode 83]"
+  }
+}, {
+  "file_name" : "Noragami - S02E06 - What Must Be Done [Episode 6]",
+  "id" : 30503,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeSeason" : "02",
+    "kElementAnimeTitle" : "Noragami",
+    "kElementEpisodeNumber" : "6",
+    "kElementEpisodeTitle" : "What Must Be Done",
+    "kElementFileName" : "Noragami - S02E06 - What Must Be Done [Episode 6]"
+  }
+}, {
+  "file_name" : "[Harunatsu] Classroom Crisis - Vol.1 [BD 720p-AAC]",
+  "id" : 30383,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Classroom Crisis",
+    "kElementAudioTerm" : "AAC",
+    "kElementFileName" : "[Harunatsu] Classroom Crisis - Vol.1 [BD 720p-AAC]",
+    "kElementReleaseGroup" : "Harunatsu",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "720p",
+    "kElementVolumeNumber" : "1"
+  }
+}, {
+  "file_name" : "[GS] Classroom Crisis Vol.1&2 (BD 1080p 10bit FLAC)",
+  "id" : 30383,
+  "ignore" : false,
+  "results" : {
+    "kElementAnimeTitle" : "Classroom Crisis",
+    "kElementAudioTerm" : "FLAC",
+    "kElementFileName" : "[GS] Classroom Crisis Vol.1&2 (BD 1080p 10bit FLAC)",
+    "kElementReleaseGroup" : "GS",
+    "kElementSource" : "BD",
+    "kElementVideoResolution" : "1080p",
+    "kElementVideoTerm" : "10bit",
+    "kElementVolumeNumber" : [ "1", "2"]
+  }
+} ]
