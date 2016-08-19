@@ -40,7 +40,7 @@ public class Main {
     System.out.println(elements.stream()
                                .map(e -> e.getCategory().name() + "=" + e.getValue())
                                .collect(Collectors.joining("\n")));
-    }
+  }
 }
 ```
 
