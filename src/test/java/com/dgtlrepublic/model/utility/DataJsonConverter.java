@@ -35,8 +35,8 @@ import com.fasterxml.jackson.databind.SerializationFeature;
  * produces the correct result(Using the original Anitomy library).
  * <p>
  * This class was only really used to give me a starting point, and I thought it was useful to commit. We won't actually
- * rebuild the result.json every time( Otherwise we would be testing nothing ;D ). New entries will just be ran through
- * this class, hand verified/tuned and then appended to the official result.json to make valid test cases.
+ * rebuild the test-cases.json every time( Otherwise we would be testing nothing ;D ). New entries will just be ran through
+ * this class, hand verified/tuned and then appended to the official test-cases.json to make valid test cases.
  *
  * @author Paul Miller
  */
